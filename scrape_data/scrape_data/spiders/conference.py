@@ -1,4 +1,6 @@
 import scrapy
+import os
+import errno
 
 class ConferenceSpider(scrapy.Spider):
     name = "conference"
@@ -8,38 +10,42 @@ class ConferenceSpider(scrapy.Spider):
     # page url
     url_preseason_base = 'http://www.espn.com/nba/standings/_/seasontype/pre/season/'
     url_conference_base = 'http://www.espn.com/nba/standings/_/season/'
-    url_divison_base_firsthalf = 'http://www.espn.com/nba/standings/_/season/'
-    url_divison_base_lasthalf = '/group/division'
+    url_division_base_firsthalf = 'http://www.espn.com/nba/standings/_/season/'
+    url_division_base_lasthalf = '/group/division/'
     url_standings_base_firsthalf = 'http://www.espn.com/nba/standings/_/season/'
-    url_standings_base_lasthalf = '/group/league'
+    url_standings_base_lasthalf = '/group/league/'
 
     # folder names
-    preseason_dir = '../../../preseaonHTML'
-    conference_dir = '../../../conferenceHTML'
-    division_dir = '../../../divisonHTML'
-    standings_dir = '../../../standingsHTML'
+    preseason_dir = '../../../dataCSV/preseaonCSV'
     
     def start_requests(self):
-        for season in self.seasons:
-            # preseason
-            url_preseason = self.url_preseason_base + season
-            yield scrapy.Request(url=url_preseason, callback=self.parse)
+        # conference
+        url_conference = self.url_conference_base + season
+        file_conference = 'conference-' + season + '.csv'
+        self.log(url_conference)
+        yield scrapy.Request(url=url_conference, 
+                            callback=self.parse,
+                            meta={'directory': self.conference_dir, 'filename': file_conference})
 
-            # conference
-            url_conference = self.url_conference_base + season
-            yield scrapy.Request(url=url_conference, callback=self.parse)
-
-            # divison
-            url_divison = self.url_division_base_firsthalf + season + self.url_divison_base_lasthalf
-            yield scrapy.Request(url=url_divison, callback=self.parse)
-
-            # standings
-            url_standings = self.url_standings_base_firsthalf + season + self.url_standings_base_lasthalf
-            yield scrapy.Request(url=url_standings, callback=self.parse)
 
     def parse(self, response):
-        page = response.url[35:].replace('/', '-') # season label
-        filename = '%s.html' % page
+        table_wrapper = response.xpath('//table[contains(@class, "Table2__table__wrapper")]')
+        team_names = table_wrapper.xpath('//a[contains(@href, "/nba/team/_/name/")]/text()').getall()
+        cell_values = table_wrapper.css('.stat-cell::text').getall()
+        cells 
+
+
+
+        # make the directory & the file
+        directory = response.meta['directory']
+        filename = directory + '/' + response.meta['filename']
+        if not os.path.exists(os.path.dirname(filename)):
+            try:
+                os.makedirs(os.path.dirname(filename))
+            except OSError as exc:
+                if exc.errno != errno.EEXIST:
+                    raise
+
         with open(filename, 'wb') as f:
             f.write(response.body)
         self.log('Saved file %s' % filename)
