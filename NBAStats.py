@@ -44,14 +44,14 @@ class NBADataToCSV():
             print(game_df_list)
             break
 
-            # for index, game_df in enumerate(game_df_list):
-            #     # formulate a proper file name
-            #     game_csv_dir = './data_CSV/' + team_name
-            #     if not os.path.exists(game_csv_dir):
-            #         os.mkdir(game_csv_dir)
-            #     game_csv_file = str(self.season_list[index]) + '.csv'
-            #     game_csv_fullpath = os.path.join(game_csv_dir, game_csv_file)
-            #     game_df.to_csv(game_csv_fullpath)
+            for index, game_df in enumerate(game_df_list):
+                # formulate a proper file name
+                game_csv_dir = './data_CSV/' + team_name
+                if not os.path.exists(game_csv_dir):
+                    os.mkdir(game_csv_dir)
+                game_csv_file = str(self.season_list[index]) + '.csv'
+                game_csv_fullpath = os.path.join(game_csv_dir, game_csv_file)
+                game_df.to_csv(game_csv_fullpath)
 
 
 def main():
