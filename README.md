@@ -3,32 +3,34 @@ predicts the outcome of future NBA games
 
 
 
-## Usage of NBAStats.py
+## Documentation:
 
-- Command Line Arguments:
-  - all - updates the csv file that holds game's entire data
-  - seasons - updates all csv files that holds each season's game data
-  - both - both
+- getData.py - updates data for training and predicting of the lastest NBA season
+- predict.py - creates a model and predicts outcome of the latest NBA season
 
 
 
+### Data Retreived From:
 
+nba-api: https://github.com/swar/nba_api
 
-## Baseline
-
-- home team wins games more frquently
+basketball-reference.com: https://www.basketball-reference.com
 
 
 
 
 
-##Win Shares
+# NOTES FOR FUTURE APPLICATIONS
+
+######Winshares
 
 Calculating offensive win shares to players.
 
 Credit: Dean Oliver | http://www.basketballonpaper.com
 
-###offensive win shares
+
+
+Offsensive win shares
 
 1. Calculate points producted for each player.
    - total points produced during the season
@@ -42,7 +44,9 @@ Credit: Dean Oliver | http://www.basketballonpaper.com
 5. Credit offensive Win Shares to the players.
    - (marginal offense) / (marginal points per win)
 
-###defensive win shares
+
+
+Defensive win shares
 
 1. Calculate the Defensive Rating for each player. 
    - defensive rating for the season
@@ -53,19 +57,11 @@ Credit: Dean Oliver | http://www.basketballonpaper.com
 4. Credit Defensive Win Shares to the players.
    - (marginal defense) / (marginal points per win)
 
-### total win shares
+### 
+
+Total win shares
 
 offensive win shares + defensive win shares
-
-
-
-
-
-## Decision Trees
-
-- non-parametric supervised learning  method used for classification and regression
-  - nonparametric statistics - statistical method in which the data is not required to fit a normal distribution. It uses data that is often ordinal, meaning it does not rely on numbers, but rather on a ranking or order of sorts.
-  - 
 
 
 

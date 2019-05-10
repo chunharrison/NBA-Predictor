@@ -1,0 +1,1231 @@
+GAME_ID,Season ID,Home Team Name,Away Team Name,Home Points,Away Points,Home Win,Match,Date
+0021800001,22018,Boston Celtics,Philadelphia 76ers,105,87,W,BOS vs. PHI,2018-10-16
+0021800002,22018,Golden State Warriors,Oklahoma City Thunder,108,100,L,OKC @ GSW,2018-10-16
+0021800003,22018,Charlotte Hornets,Milwaukee Bucks,112,113,L,CHA vs. MIL,2018-10-17
+0021800004,22018,Detroit Pistons,Brooklyn Nets,103,100,W,DET vs. BKN,2018-10-17
+0021800005,22018,Indiana Pacers,Memphis Grizzlies,111,83,L,MEM @ IND,2018-10-17
+0021800006,22018,Orlando Magic,Miami Heat,104,101,L,MIA @ ORL,2018-10-17
+0021800007,22018,New York Knicks,Atlanta Hawks,126,107,W,NYK vs. ATL,2018-10-17
+0021800008,22018,Toronto Raptors,Cleveland Cavaliers,116,104,L,CLE @ TOR,2018-10-17
+0021800009,22018,Houston Rockets,New Orleans Pelicans,112,131,W,NOP @ HOU,2018-10-17
+0021800010,22018,San Antonio Spurs,Minnesota Timberwolves,112,108,L,MIN @ SAS,2018-10-17
+0021800011,22018,Sacramento Kings,Utah Jazz,117,123,W,UTA @ SAC,2018-10-17
+0021800012,22018,Los Angeles Clippers,Denver Nuggets,98,107,L,LAC vs. DEN,2018-10-17
+0021800013,22018,Phoenix Suns,Dallas Mavericks,121,100,W,PHX vs. DAL,2018-10-17
+0021800014,22018,Philadelphia 76ers,Chicago Bulls,127,108,W,PHI vs. CHI,2018-10-18
+0021800015,22018,Washington Wizards,Miami Heat,112,113,L,WAS vs. MIA,2018-10-18
+0021800016,22018,Portland Trail Blazers,Los Angeles Lakers,128,119,W,POR vs. LAL,2018-10-18
+0021800017,22018,Orlando Magic,Charlotte Hornets,88,120,W,CHA @ ORL,2018-10-19
+0021800018,22018,Brooklyn Nets,New York Knicks,107,105,W,BKN vs. NYK,2018-10-19
+0021800019,22018,Toronto Raptors,Boston Celtics,113,101,W,TOR vs. BOS,2018-10-19
+0021800020,22018,Memphis Grizzlies,Atlanta Hawks,131,117,L,ATL @ MEM,2018-10-19
+0021800021,22018,Minnesota Timberwolves,Cleveland Cavaliers,131,123,L,CLE @ MIN,2018-10-19
+0021800022,22018,New Orleans Pelicans,Sacramento Kings,149,129,L,SAC @ NOP,2018-10-19
+0021800023,22018,Milwaukee Bucks,Indiana Pacers,118,101,L,IND @ MIL,2018-10-19
+0021800024,22018,Utah Jazz,Golden State Warriors,123,124,L,UTA vs. GSW,2018-10-19
+0021800025,22018,Los Angeles Clippers,Oklahoma City Thunder,108,92,W,LAC vs. OKC,2018-10-19
+0021800026,22018,Indiana Pacers,Brooklyn Nets,132,112,W,IND vs. BKN,2018-10-20
+0021800027,22018,Washington Wizards,Toronto Raptors,113,117,W,TOR @ WAS,2018-10-20
+0021800028,22018,New York Knicks,Boston Celtics,101,103,W,BOS @ NYK,2018-10-20
+0021800029,22018,Philadelphia 76ers,Orlando Magic,116,115,W,PHI vs. ORL,2018-10-20
+0021800030,22018,Miami Heat,Charlotte Hornets,112,113,L,MIA vs. CHA,2018-10-20
+0021800031,22018,Chicago Bulls,Detroit Pistons,116,118,W,DET @ CHI,2018-10-20
+0021800032,22018,Dallas Mavericks,Minnesota Timberwolves,140,136,L,MIN @ DAL,2018-10-20
+0021800033,22018,Denver Nuggets,Phoenix Suns,119,91,L,PHX @ DEN,2018-10-20
+0021800034,22018,Portland Trail Blazers,San Antonio Spurs,121,108,L,SAS @ POR,2018-10-20
+0021800035,22018,Los Angeles Lakers,Houston Rockets,115,124,W,HOU @ LAL,2018-10-20
+0021800036,22018,Cleveland Cavaliers,Atlanta Hawks,111,133,W,ATL @ CLE,2018-10-21
+0021800037,22018,Oklahoma City Thunder,Sacramento Kings,120,131,L,OKC vs. SAC,2018-10-21
+0021800038,22018,Denver Nuggets,Golden State Warriors,100,98,W,DEN vs. GSW,2018-10-21
+0021800039,22018,Los Angeles Clippers,Houston Rockets,115,112,W,LAC vs. HOU,2018-10-21
+0021800040,22018,Boston Celtics,Orlando Magic,90,93,L,BOS vs. ORL,2018-10-22
+0021800041,22018,Toronto Raptors,Charlotte Hornets,127,106,L,CHA @ TOR,2018-10-22
+0021800042,22018,Milwaukee Bucks,New York Knicks,124,113,L,NYK @ MIL,2018-10-22
+0021800043,22018,Minnesota Timberwolves,Indiana Pacers,101,91,L,IND @ MIN,2018-10-22
+0021800044,22018,Dallas Mavericks,Chicago Bulls,115,109,W,DAL vs. CHI,2018-10-22
+0021800045,22018,Utah Jazz,Memphis Grizzlies,84,92,W,MEM @ UTA,2018-10-22
+0021800046,22018,Portland Trail Blazers,Washington Wizards,124,125,L,POR vs. WAS,2018-10-22
+0021800047,22018,Golden State Warriors,Phoenix Suns,123,103,W,GSW vs. PHX,2018-10-22
+0021800048,22018,Los Angeles Lakers,San Antonio Spurs,142,143,W,SAS @ LAL,2018-10-22
+0021800049,22018,Detroit Pistons,Philadelphia 76ers,133,132,L,PHI @ DET,2018-10-23
+0021800050,22018,New Orleans Pelicans,Los Angeles Clippers,116,109,L,LAC @ NOP,2018-10-23
+0021800051,22018,Denver Nuggets,Sacramento Kings,126,112,W,DEN vs. SAC,2018-10-23
+0021800052,22018,Atlanta Hawks,Dallas Mavericks,111,104,L,DAL @ ATL,2018-10-24
+0021800053,22018,Cleveland Cavaliers,Brooklyn Nets,86,102,W,BKN @ CLE,2018-10-24
+0021800054,22018,Miami Heat,New York Knicks,110,87,L,NYK @ MIA,2018-10-24
+0021800055,22018,Toronto Raptors,Minnesota Timberwolves,112,105,L,MIN @ TOR,2018-10-24
+0021800056,22018,Chicago Bulls,Charlotte Hornets,112,110,W,CHI vs. CHA,2018-10-24
+0021800057,22018,Houston Rockets,Utah Jazz,89,100,L,HOU vs. UTA,2018-10-24
+0021800058,22018,San Antonio Spurs,Indiana Pacers,96,116,W,IND @ SAS,2018-10-24
+0021800059,22018,Milwaukee Bucks,Philadelphia 76ers,123,108,L,PHI @ MIL,2018-10-24
+0021800060,22018,Phoenix Suns,Los Angeles Lakers,113,131,L,PHX vs. LAL,2018-10-24
+0021800061,22018,Sacramento Kings,Memphis Grizzlies,97,92,L,MEM @ SAC,2018-10-24
+0021800062,22018,Golden State Warriors,Washington Wizards,144,122,L,WAS @ GSW,2018-10-24
+0021800063,22018,Detroit Pistons,Cleveland Cavaliers,110,103,W,DET vs. CLE,2018-10-25
+0021800064,22018,Orlando Magic,Portland Trail Blazers,114,128,L,ORL vs. POR,2018-10-25
+0021800065,22018,Oklahoma City Thunder,Boston Celtics,95,101,L,OKC vs. BOS,2018-10-25
+0021800066,22018,Los Angeles Lakers,Denver Nuggets,121,114,L,DEN @ LAL,2018-10-25
+0021800067,22018,Charlotte Hornets,Chicago Bulls,135,106,L,CHI @ CHA,2018-10-26
+0021800068,22018,New York Knicks,Golden State Warriors,100,128,W,GSW @ NYK,2018-10-26
+0021800069,22018,Toronto Raptors,Dallas Mavericks,116,107,L,DAL @ TOR,2018-10-26
+0021800070,22018,Houston Rockets,Los Angeles Clippers,113,133,L,HOU vs. LAC,2018-10-26
+0021800071,22018,Minnesota Timberwolves,Milwaukee Bucks,95,125,L,MIN vs. MIL,2018-10-26
+0021800072,22018,New Orleans Pelicans,Brooklyn Nets,117,115,L,BKN @ NOP,2018-10-26
+0021800073,22018,Sacramento Kings,Washington Wizards,116,112,W,SAC vs. WAS,2018-10-26
+0021800074,22018,Detroit Pistons,Boston Celtics,89,109,W,BOS @ DET,2018-10-27
+0021800075,22018,New Orleans Pelicans,Utah Jazz,111,132,W,UTA @ NOP,2018-10-27
+0021800076,22018,Atlanta Hawks,Chicago Bulls,85,97,W,CHI @ ATL,2018-10-27
+0021800077,22018,Cleveland Cavaliers,Indiana Pacers,107,119,W,IND @ CLE,2018-10-27
+0021800078,22018,Philadelphia 76ers,Charlotte Hornets,105,103,L,CHA @ PHI,2018-10-27
+0021800079,22018,Miami Heat,Portland Trail Blazers,120,111,W,MIA vs. POR,2018-10-27
+0021800080,22018,Memphis Grizzlies,Phoenix Suns,117,96,L,PHX @ MEM,2018-10-27
+0021800081,22018,Milwaukee Bucks,Orlando Magic,113,91,L,ORL @ MIL,2018-10-27
+0021800082,22018,San Antonio Spurs,Los Angeles Lakers,110,106,L,LAL @ SAS,2018-10-27
+0021800083,22018,Brooklyn Nets,Golden State Warriors,114,120,L,BKN vs. GSW,2018-10-28
+0021800084,22018,Dallas Mavericks,Utah Jazz,104,113,W,UTA @ DAL,2018-10-28
+0021800085,22018,Oklahoma City Thunder,Phoenix Suns,117,110,W,OKC vs. PHX,2018-10-28
+0021800086,22018,Los Angeles Clippers,Washington Wizards,136,104,L,WAS @ LAC,2018-10-28
+0021800087,22018,Indiana Pacers,Portland Trail Blazers,93,103,W,POR @ IND,2018-10-29
+0021800088,22018,Philadelphia 76ers,Atlanta Hawks,113,92,L,ATL @ PHI,2018-10-29
+0021800089,22018,Miami Heat,Sacramento Kings,113,123,L,MIA vs. SAC,2018-10-29
+0021800090,22018,New York Knicks,Brooklyn Nets,115,96,L,BKN @ NYK,2018-10-29
+0021800091,22018,Chicago Bulls,Golden State Warriors,124,149,W,GSW @ CHI,2018-10-29
+0021800092,22018,Milwaukee Bucks,Toronto Raptors,124,109,W,MIL vs. TOR,2018-10-29
+0021800093,22018,Minnesota Timberwolves,Los Angeles Lakers,124,120,W,MIN vs. LAL,2018-10-29
+0021800094,22018,San Antonio Spurs,Dallas Mavericks,113,108,W,SAS vs. DAL,2018-10-29
+0021800095,22018,Denver Nuggets,New Orleans Pelicans,116,111,W,DEN vs. NOP,2018-10-29
+0021800096,22018,Charlotte Hornets,Miami Heat,125,113,W,CHA vs. MIA,2018-10-30
+0021800097,22018,Cleveland Cavaliers,Atlanta Hawks,136,114,L,ATL @ CLE,2018-10-30
+0021800098,22018,Orlando Magic,Sacramento Kings,99,107,W,SAC @ ORL,2018-10-30
+0021800099,22018,Boston Celtics,Detroit Pistons,108,105,W,BOS vs. DET,2018-10-30
+0021800100,22018,Toronto Raptors,Philadelphia 76ers,129,112,L,PHI @ TOR,2018-10-30
+0021800101,22018,Houston Rockets,Portland Trail Blazers,85,104,L,HOU vs. POR,2018-10-30
+0021800102,22018,Memphis Grizzlies,Washington Wizards,107,95,W,MEM vs. WAS,2018-10-30
+0021800103,22018,Oklahoma City Thunder,Los Angeles Clippers,128,110,L,LAC @ OKC,2018-10-30
+0021800104,22018,Brooklyn Nets,Detroit Pistons,120,119,L,DET @ BKN,2018-10-31
+0021800105,22018,New York Knicks,Indiana Pacers,101,107,L,NYK vs. IND,2018-10-31
+0021800106,22018,Chicago Bulls,Denver Nuggets,107,108,W,DEN @ CHI,2018-10-31
+0021800107,22018,Minnesota Timberwolves,Utah Jazz,128,125,L,UTA @ MIN,2018-10-31
+0021800108,22018,Golden State Warriors,New Orleans Pelicans,131,121,W,GSW vs. NOP,2018-10-31
+0021800109,22018,Los Angeles Lakers,Dallas Mavericks,114,113,L,DAL @ LAL,2018-10-31
+0021800110,22018,Phoenix Suns,San Antonio Spurs,90,120,L,PHX vs. SAS,2018-10-31
+0021800111,22018,Charlotte Hornets,Oklahoma City Thunder,107,111,L,CHA vs. OKC,2018-11-01
+0021800112,22018,Cleveland Cavaliers,Denver Nuggets,91,110,W,DEN @ CLE,2018-11-01
+0021800113,22018,Philadelphia 76ers,Los Angeles Clippers,122,113,L,LAC @ PHI,2018-11-01
+0021800114,22018,Atlanta Hawks,Sacramento Kings,115,146,L,ATL vs. SAC,2018-11-01
+0021800115,22018,Boston Celtics,Milwaukee Bucks,117,113,W,BOS vs. MIL,2018-11-01
+0021800116,22018,Portland Trail Blazers,New Orleans Pelicans,132,119,W,POR vs. NOP,2018-11-01
+0021800117,22018,Orlando Magic,Los Angeles Clippers,95,120,W,LAC @ ORL,2018-11-02
+0021800118,22018,Brooklyn Nets,Houston Rockets,111,119,L,BKN vs. HOU,2018-11-02
+0021800119,22018,Washington Wizards,Oklahoma City Thunder,111,134,W,OKC @ WAS,2018-11-02
+0021800120,22018,Chicago Bulls,Indiana Pacers,105,107,W,IND @ CHI,2018-11-02
+0021800121,22018,Dallas Mavericks,New York Knicks,106,118,L,DAL vs. NYK,2018-11-02
+0021800122,22018,Utah Jazz,Memphis Grizzlies,100,110,W,MEM @ UTA,2018-11-02
+0021800123,22018,Phoenix Suns,Toronto Raptors,98,107,W,TOR @ PHX,2018-11-02
+0021800124,22018,Golden State Warriors,Minnesota Timberwolves,116,99,L,MIN @ GSW,2018-11-02
+0021800125,22018,Philadelphia 76ers,Detroit Pistons,109,99,W,PHI vs. DET,2018-11-03
+0021800126,22018,Charlotte Hornets,Cleveland Cavaliers,126,94,W,CHA vs. CLE,2018-11-03
+0021800127,22018,Indiana Pacers,Boston Celtics,102,101,L,BOS @ IND,2018-11-03
+0021800128,22018,Atlanta Hawks,Miami Heat,123,118,L,MIA @ ATL,2018-11-03
+0021800129,22018,Chicago Bulls,Houston Rockets,88,96,L,CHI vs. HOU,2018-11-03
+0021800130,22018,San Antonio Spurs,New Orleans Pelicans,109,95,W,SAS vs. NOP,2018-11-03
+0021800131,22018,Denver Nuggets,Utah Jazz,103,88,L,UTA @ DEN,2018-11-03
+0021800132,22018,Portland Trail Blazers,Los Angeles Lakers,110,114,L,POR vs. LAL,2018-11-03
+0021800133,22018,Milwaukee Bucks,Sacramento Kings,144,109,W,MIL vs. SAC,2018-11-04
+0021800134,22018,Brooklyn Nets,Philadelphia 76ers,122,97,L,PHI @ BKN,2018-11-04
+0021800135,22018,Washington Wizards,New York Knicks,108,95,L,NYK @ WAS,2018-11-04
+0021800136,22018,Phoenix Suns,Memphis Grizzlies,102,100,L,MEM @ PHX,2018-11-04
+0021800137,22018,San Antonio Spurs,Orlando Magic,110,117,L,SAS vs. ORL,2018-11-04
+0021800138,22018,Portland Trail Blazers,Minnesota Timberwolves,111,81,W,POR vs. MIN,2018-11-04
+0021800139,22018,Los Angeles Lakers,Toronto Raptors,107,121,L,LAL vs. TOR,2018-11-04
+0021800140,22018,Detroit Pistons,Miami Heat,115,120,L,DET vs. MIA,2018-11-05
+0021800141,22018,Indiana Pacers,Houston Rockets,94,98,W,HOU @ IND,2018-11-05
+0021800142,22018,Orlando Magic,Cleveland Cavaliers,102,100,W,ORL vs. CLE,2018-11-05
+0021800143,22018,New York Knicks,Chicago Bulls,115,116,L,NYK vs. CHI,2018-11-05
+0021800144,22018,Oklahoma City Thunder,New Orleans Pelicans,122,116,W,OKC vs. NOP,2018-11-05
+0021800145,22018,Denver Nuggets,Boston Celtics,115,107,W,DEN vs. BOS,2018-11-05
+0021800146,22018,Utah Jazz,Toronto Raptors,111,124,L,UTA vs. TOR,2018-11-05
+0021800147,22018,Golden State Warriors,Memphis Grizzlies,117,101,W,GSW vs. MEM,2018-11-05
+0021800148,22018,Los Angeles Clippers,Minnesota Timberwolves,120,109,W,LAC vs. MIN,2018-11-05
+0021800149,22018,Charlotte Hornets,Atlanta Hawks,113,102,L,ATL @ CHA,2018-11-06
+0021800150,22018,Dallas Mavericks,Washington Wizards,119,100,L,WAS @ DAL,2018-11-06
+0021800151,22018,Phoenix Suns,Brooklyn Nets,82,104,L,PHX vs. BKN,2018-11-06
+0021800152,22018,Portland Trail Blazers,Milwaukee Bucks,118,103,L,MIL @ POR,2018-11-06
+0021800153,22018,Cleveland Cavaliers,Oklahoma City Thunder,86,95,W,OKC @ CLE,2018-11-07
+0021800154,22018,Orlando Magic,Detroit Pistons,96,103,L,ORL vs. DET,2018-11-07
+0021800155,22018,Atlanta Hawks,New York Knicks,107,112,W,NYK @ ATL,2018-11-07
+0021800156,22018,Miami Heat,San Antonio Spurs,95,88,L,SAS @ MIA,2018-11-07
+0021800157,22018,Indiana Pacers,Philadelphia 76ers,94,100,W,PHI @ IND,2018-11-07
+0021800158,22018,Memphis Grizzlies,Denver Nuggets,89,87,W,MEM vs. DEN,2018-11-07
+0021800159,22018,New Orleans Pelicans,Chicago Bulls,107,98,W,NOP vs. CHI,2018-11-07
+0021800160,22018,Utah Jazz,Dallas Mavericks,117,102,W,UTA vs. DAL,2018-11-07
+0021800161,22018,Sacramento Kings,Toronto Raptors,105,114,L,SAC vs. TOR,2018-11-07
+0021800162,22018,Los Angeles Lakers,Minnesota Timberwolves,114,110,W,LAL vs. MIN,2018-11-07
+0021800163,22018,Oklahoma City Thunder,Houston Rockets,98,80,W,OKC vs. HOU,2018-11-08
+0021800164,22018,Phoenix Suns,Boston Celtics,109,116,W,BOS @ PHX,2018-11-08
+0021800165,22018,Portland Trail Blazers,Los Angeles Clippers,116,105,L,LAC @ POR,2018-11-08
+0021800166,22018,Golden State Warriors,Milwaukee Bucks,111,134,W,MIL @ GSW,2018-11-08
+0021800167,22018,Orlando Magic,Washington Wizards,117,108,W,ORL vs. WAS,2018-11-09
+0021800168,22018,Philadelphia 76ers,Charlotte Hornets,133,132,W,PHI vs. CHA,2018-11-09
+0021800169,22018,Atlanta Hawks,Detroit Pistons,109,124,W,DET @ ATL,2018-11-09
+0021800170,22018,Miami Heat,Indiana Pacers,102,110,W,IND @ MIA,2018-11-09
+0021800171,22018,Denver Nuggets,Brooklyn Nets,110,112,L,DEN vs. BKN,2018-11-09
+0021800172,22018,Utah Jazz,Boston Celtics,123,115,L,BOS @ UTA,2018-11-09
+0021800173,22018,Sacramento Kings,Minnesota Timberwolves,121,110,W,SAC vs. MIN,2018-11-09
+0021800174,22018,Toronto Raptors,New York Knicks,128,112,W,TOR vs. NYK,2018-11-10
+0021800175,22018,Los Angeles Clippers,Milwaukee Bucks,128,126,L,MIL @ LAC,2018-11-10
+0021800176,22018,New Orleans Pelicans,Phoenix Suns,119,99,W,NOP vs. PHX,2018-11-10
+0021800177,22018,Miami Heat,Washington Wizards,110,116,W,WAS @ MIA,2018-11-10
+0021800178,22018,Chicago Bulls,Cleveland Cavaliers,99,98,W,CHI vs. CLE,2018-11-10
+0021800179,22018,Memphis Grizzlies,Philadelphia 76ers,112,106,W,MEM vs. PHI,2018-11-10
+0021800180,22018,San Antonio Spurs,Houston Rockets,96,89,W,SAS vs. HOU,2018-11-10
+0021800181,22018,Dallas Mavericks,Oklahoma City Thunder,111,96,L,OKC @ DAL,2018-11-10
+0021800182,22018,Golden State Warriors,Brooklyn Nets,116,100,L,BKN @ GSW,2018-11-10
+0021800183,22018,Sacramento Kings,Los Angeles Lakers,86,101,W,LAL @ SAC,2018-11-10
+0021800184,22018,Detroit Pistons,Charlotte Hornets,103,113,L,DET vs. CHA,2018-11-11
+0021800185,22018,Houston Rockets,Indiana Pacers,115,103,W,HOU vs. IND,2018-11-11
+0021800186,22018,New York Knicks,Orlando Magic,89,115,W,ORL @ NYK,2018-11-11
+0021800187,22018,Denver Nuggets,Milwaukee Bucks,114,121,W,MIL @ DEN,2018-11-11
+0021800188,22018,Portland Trail Blazers,Boston Celtics,100,94,W,POR vs. BOS,2018-11-11
+0021800189,22018,Los Angeles Lakers,Atlanta Hawks,107,106,L,ATL @ LAL,2018-11-11
+0021800190,22018,Washington Wizards,Orlando Magic,117,109,W,WAS vs. ORL,2018-11-12
+0021800191,22018,Miami Heat,Philadelphia 76ers,114,124,L,MIA vs. PHI,2018-11-12
+0021800192,22018,Toronto Raptors,New Orleans Pelicans,110,126,L,TOR vs. NOP,2018-11-12
+0021800193,22018,Chicago Bulls,Dallas Mavericks,98,103,W,DAL @ CHI,2018-11-12
+0021800194,22018,Memphis Grizzlies,Utah Jazz,88,96,W,UTA @ MEM,2018-11-12
+0021800195,22018,Minnesota Timberwolves,Brooklyn Nets,120,113,L,BKN @ MIN,2018-11-12
+0021800196,22018,Oklahoma City Thunder,Phoenix Suns,118,101,L,PHX @ OKC,2018-11-12
+0021800197,22018,Sacramento Kings,San Antonio Spurs,104,99,W,SAC vs. SAS,2018-11-12
+0021800198,22018,Los Angeles Clippers,Golden State Warriors,121,116,L,GSW @ LAC,2018-11-12
+0021800199,22018,Cleveland Cavaliers,Charlotte Hornets,113,89,W,CLE vs. CHA,2018-11-13
+0021800200,22018,Denver Nuggets,Houston Rockets,99,109,W,HOU @ DEN,2018-11-13
+0021800201,22018,Golden State Warriors,Atlanta Hawks,110,103,L,ATL @ GSW,2018-11-13
+0021800202,22018,Orlando Magic,Philadelphia 76ers,111,106,W,ORL vs. PHI,2018-11-14
+0021800203,22018,Washington Wizards,Cleveland Cavaliers,119,95,L,CLE @ WAS,2018-11-14
+0021800204,22018,Boston Celtics,Chicago Bulls,111,82,L,CHI @ BOS,2018-11-14
+0021800205,22018,Brooklyn Nets,Miami Heat,107,120,L,BKN vs. MIA,2018-11-14
+0021800206,22018,Toronto Raptors,Detroit Pistons,104,106,W,DET @ TOR,2018-11-14
+0021800207,22018,Milwaukee Bucks,Memphis Grizzlies,113,116,L,MIL vs. MEM,2018-11-14
+0021800208,22018,Minnesota Timberwolves,New Orleans Pelicans,107,100,L,NOP @ MIN,2018-11-14
+0021800209,22018,Oklahoma City Thunder,New York Knicks,128,103,W,OKC vs. NYK,2018-11-14
+0021800210,22018,Dallas Mavericks,Utah Jazz,118,68,W,DAL vs. UTA,2018-11-14
+0021800211,22018,Phoenix Suns,San Antonio Spurs,116,96,W,PHX vs. SAS,2018-11-14
+0021800212,22018,Los Angeles Lakers,Portland Trail Blazers,126,117,W,LAL vs. POR,2018-11-14
+0021800213,22018,Houston Rockets,Golden State Warriors,107,86,W,HOU vs. GSW,2018-11-15
+0021800214,22018,Denver Nuggets,Atlanta Hawks,138,93,L,ATL @ DEN,2018-11-15
+0021800215,22018,Los Angeles Clippers,San Antonio Spurs,116,111,L,SAS @ LAC,2018-11-15
+0021800216,22018,Boston Celtics,Toronto Raptors,123,116,W,BOS vs. TOR,2018-11-16
+0021800217,22018,Indiana Pacers,Miami Heat,99,91,L,MIA @ IND,2018-11-16
+0021800218,22018,Philadelphia 76ers,Utah Jazz,113,107,W,PHI vs. UTA,2018-11-16
+0021800219,22018,Washington Wizards,Brooklyn Nets,104,115,W,BKN @ WAS,2018-11-16
+0021800220,22018,Memphis Grizzlies,Sacramento Kings,112,104,W,MEM vs. SAC,2018-11-16
+0021800221,22018,Minnesota Timberwolves,Portland Trail Blazers,112,96,L,POR @ MIN,2018-11-16
+0021800222,22018,New Orleans Pelicans,New York Knicks,129,124,W,NOP vs. NYK,2018-11-16
+0021800223,22018,Milwaukee Bucks,Chicago Bulls,123,104,W,MIL vs. CHI,2018-11-16
+0021800224,22018,Brooklyn Nets,Los Angeles Clippers,119,127,W,LAC @ BKN,2018-11-17
+0021800225,22018,Charlotte Hornets,Philadelphia 76ers,119,122,W,PHI @ CHA,2018-11-17
+0021800226,22018,Indiana Pacers,Atlanta Hawks,97,89,L,ATL @ IND,2018-11-17
+0021800227,22018,Orlando Magic,Los Angeles Lakers,130,117,L,LAL @ ORL,2018-11-17
+0021800228,22018,New Orleans Pelicans,Denver Nuggets,125,115,L,DEN @ NOP,2018-11-17
+0021800229,22018,Boston Celtics,Utah Jazz,86,98,L,BOS vs. UTA,2018-11-17
+0021800230,22018,Chicago Bulls,Toronto Raptors,83,122,L,CHI vs. TOR,2018-11-17
+0021800231,22018,Houston Rockets,Sacramento Kings,132,112,L,SAC @ HOU,2018-11-17
+0021800232,22018,Dallas Mavericks,Golden State Warriors,112,109,W,DAL vs. GSW,2018-11-17
+0021800233,22018,Phoenix Suns,Oklahoma City Thunder,100,110,W,OKC @ PHX,2018-11-17
+0021800234,22018,Minnesota Timberwolves,Memphis Grizzlies,87,100,W,MEM @ MIN,2018-11-18
+0021800235,22018,Miami Heat,Los Angeles Lakers,97,113,L,MIA vs. LAL,2018-11-18
+0021800236,22018,Orlando Magic,New York Knicks,131,117,W,ORL vs. NYK,2018-11-18
+0021800237,22018,Washington Wizards,Portland Trail Blazers,109,119,L,WAS vs. POR,2018-11-18
+0021800238,22018,San Antonio Spurs,Golden State Warriors,104,92,W,SAS vs. GSW,2018-11-18
+0021800239,22018,Charlotte Hornets,Boston Celtics,117,112,W,CHA vs. BOS,2018-11-19
+0021800240,22018,Detroit Pistons,Cleveland Cavaliers,113,102,L,CLE @ DET,2018-11-19
+0021800241,22018,Indiana Pacers,Utah Jazz,121,94,W,IND vs. UTA,2018-11-19
+0021800242,22018,Philadelphia 76ers,Phoenix Suns,119,114,L,PHX @ PHI,2018-11-19
+0021800243,22018,Atlanta Hawks,Los Angeles Clippers,119,127,W,LAC @ ATL,2018-11-19
+0021800244,22018,Memphis Grizzlies,Dallas Mavericks,98,88,W,MEM vs. DAL,2018-11-19
+0021800245,22018,Milwaukee Bucks,Denver Nuggets,104,98,L,DEN @ MIL,2018-11-19
+0021800246,22018,New Orleans Pelicans,San Antonio Spurs,140,126,L,SAS @ NOP,2018-11-19
+0021800247,22018,Sacramento Kings,Oklahoma City Thunder,117,113,W,SAC vs. OKC,2018-11-19
+0021800248,22018,Orlando Magic,Toronto Raptors,91,93,L,ORL vs. TOR,2018-11-20
+0021800249,22018,Washington Wizards,Los Angeles Clippers,125,118,W,WAS vs. LAC,2018-11-20
+0021800250,22018,Miami Heat,Brooklyn Nets,92,104,L,MIA vs. BKN,2018-11-20
+0021800251,22018,New York Knicks,Portland Trail Blazers,114,118,W,POR @ NYK,2018-11-20
+0021800252,22018,Charlotte Hornets,Indiana Pacers,127,109,L,IND @ CHA,2018-11-21
+0021800253,22018,Philadelphia 76ers,New Orleans Pelicans,121,120,L,NOP @ PHI,2018-11-21
+0021800254,22018,Atlanta Hawks,Toronto Raptors,108,124,W,TOR @ ATL,2018-11-21
+0021800255,22018,Boston Celtics,New York Knicks,109,117,L,BOS vs. NYK,2018-11-21
+0021800256,22018,Cleveland Cavaliers,Los Angeles Lakers,105,109,L,CLE vs. LAL,2018-11-21
+0021800257,22018,Chicago Bulls,Phoenix Suns,124,116,W,CHI vs. PHX,2018-11-21
+0021800258,22018,Houston Rockets,Detroit Pistons,126,124,W,HOU vs. DET,2018-11-21
+0021800259,22018,Milwaukee Bucks,Portland Trail Blazers,143,100,W,MIL vs. POR,2018-11-21
+0021800260,22018,Minnesota Timberwolves,Denver Nuggets,101,103,W,DEN @ MIN,2018-11-21
+0021800261,22018,Dallas Mavericks,Brooklyn Nets,119,113,L,BKN @ DAL,2018-11-21
+0021800262,22018,San Antonio Spurs,Memphis Grizzlies,103,104,W,MEM @ SAS,2018-11-21
+0021800263,22018,Utah Jazz,Sacramento Kings,110,119,W,SAC @ UTA,2018-11-21
+0021800264,22018,Golden State Warriors,Oklahoma City Thunder,95,123,L,GSW vs. OKC,2018-11-21
+0021800265,22018,Brooklyn Nets,Minnesota Timberwolves,102,112,W,MIN @ BKN,2018-11-23
+0021800266,22018,Los Angeles Clippers,Memphis Grizzlies,112,107,L,MEM @ LAC,2018-11-23
+0021800267,22018,Detroit Pistons,Houston Rockets,116,111,W,DET vs. HOU,2018-11-23
+0021800268,22018,Atlanta Hawks,Boston Celtics,96,114,W,BOS @ ATL,2018-11-23
+0021800269,22018,New York Knicks,New Orleans Pelicans,114,109,L,NOP @ NYK,2018-11-23
+0021800270,22018,Philadelphia 76ers,Cleveland Cavaliers,112,121,L,PHI vs. CLE,2018-11-23
+0021800271,22018,Toronto Raptors,Washington Wizards,125,107,L,WAS @ TOR,2018-11-23
+0021800272,22018,Indiana Pacers,San Antonio Spurs,100,111,W,SAS @ IND,2018-11-23
+0021800273,22018,Chicago Bulls,Miami Heat,96,103,L,CHI vs. MIA,2018-11-23
+0021800274,22018,Oklahoma City Thunder,Charlotte Hornets,109,104,L,CHA @ OKC,2018-11-23
+0021800275,22018,Milwaukee Bucks,Phoenix Suns,114,116,W,PHX @ MIL,2018-11-23
+0021800276,22018,Denver Nuggets,Orlando Magic,112,87,W,DEN vs. ORL,2018-11-23
+0021800277,22018,Golden State Warriors,Portland Trail Blazers,125,97,L,POR @ GSW,2018-11-23
+0021800278,22018,Los Angeles Lakers,Utah Jazz,90,83,W,LAL vs. UTA,2018-11-23
+0021800279,22018,Cleveland Cavaliers,Houston Rockets,117,108,L,HOU @ CLE,2018-11-24
+0021800280,22018,Washington Wizards,New Orleans Pelicans,124,114,W,WAS vs. NOP,2018-11-24
+0021800281,22018,Minnesota Timberwolves,Chicago Bulls,111,96,L,CHI @ MIN,2018-11-24
+0021800282,22018,Oklahoma City Thunder,Denver Nuggets,98,105,W,DEN @ OKC,2018-11-24
+0021800283,22018,Dallas Mavericks,Boston Celtics,113,104,L,BOS @ DAL,2018-11-24
+0021800284,22018,Milwaukee Bucks,San Antonio Spurs,135,129,W,MIL vs. SAS,2018-11-24
+0021800285,22018,Golden State Warriors,Sacramento Kings,117,116,W,GSW vs. SAC,2018-11-24
+0021800286,22018,Los Angeles Lakers,Orlando Magic,104,108,L,LAL vs. ORL,2018-11-25
+0021800287,22018,Detroit Pistons,Phoenix Suns,118,107,W,DET vs. PHX,2018-11-25
+0021800288,22018,Atlanta Hawks,Charlotte Hornets,124,123,L,CHA @ ATL,2018-11-25
+0021800289,22018,Brooklyn Nets,Philadelphia 76ers,125,127,W,PHI @ BKN,2018-11-25
+0021800290,22018,Toronto Raptors,Miami Heat,125,115,L,MIA @ TOR,2018-11-25
+0021800291,22018,Memphis Grizzlies,New York Knicks,98,103,L,MEM vs. NYK,2018-11-25
+0021800292,22018,Sacramento Kings,Utah Jazz,112,133,W,UTA @ SAC,2018-11-25
+0021800293,22018,Portland Trail Blazers,Los Angeles Clippers,100,104,L,POR vs. LAC,2018-11-25
+0021800294,22018,Charlotte Hornets,Milwaukee Bucks,110,107,L,MIL @ CHA,2018-11-26
+0021800295,22018,Cleveland Cavaliers,Minnesota Timberwolves,95,102,W,MIN @ CLE,2018-11-26
+0021800296,22018,Washington Wizards,Houston Rockets,135,131,W,WAS vs. HOU,2018-11-26
+0021800297,22018,Chicago Bulls,San Antonio Spurs,107,108,W,SAS @ CHI,2018-11-26
+0021800298,22018,New Orleans Pelicans,Boston Celtics,107,124,L,NOP vs. BOS,2018-11-26
+0021800299,22018,Utah Jazz,Indiana Pacers,88,121,L,UTA vs. IND,2018-11-26
+0021800300,22018,Golden State Warriors,Orlando Magic,116,110,W,GSW vs. ORL,2018-11-26
+0021800301,22018,Detroit Pistons,New York Knicks,115,108,W,DET vs. NYK,2018-11-27
+0021800302,22018,Miami Heat,Atlanta Hawks,113,115,L,MIA vs. ATL,2018-11-27
+0021800303,22018,Memphis Grizzlies,Toronto Raptors,114,122,W,TOR @ MEM,2018-11-27
+0021800304,22018,Denver Nuggets,Los Angeles Lakers,117,85,W,DEN vs. LAL,2018-11-27
+0021800305,22018,Phoenix Suns,Indiana Pacers,104,109,W,IND @ PHX,2018-11-27
+0021800306,22018,Charlotte Hornets,Atlanta Hawks,108,94,L,ATL @ CHA,2018-11-28
+0021800307,22018,Philadelphia 76ers,New York Knicks,117,91,L,NYK @ PHI,2018-11-28
+0021800308,22018,Brooklyn Nets,Utah Jazz,91,101,W,UTA @ BKN,2018-11-28
+0021800309,22018,Houston Rockets,Dallas Mavericks,108,128,L,HOU vs. DAL,2018-11-28
+0021800310,22018,Milwaukee Bucks,Chicago Bulls,116,113,L,CHI @ MIL,2018-11-28
+0021800311,22018,Minnesota Timberwolves,San Antonio Spurs,128,89,L,SAS @ MIN,2018-11-28
+0021800312,22018,New Orleans Pelicans,Washington Wizards,125,104,L,WAS @ NOP,2018-11-28
+0021800313,22018,Oklahoma City Thunder,Cleveland Cavaliers,100,83,W,OKC vs. CLE,2018-11-28
+0021800314,22018,Portland Trail Blazers,Orlando Magic,115,112,W,POR vs. ORL,2018-11-28
+0021800315,22018,Los Angeles Clippers,Phoenix Suns,115,99,W,LAC vs. PHX,2018-11-28
+0021800316,22018,Toronto Raptors,Golden State Warriors,131,128,L,GSW @ TOR,2018-11-29
+0021800317,22018,Los Angeles Lakers,Indiana Pacers,104,96,W,LAL vs. IND,2018-11-29
+0021800318,22018,Sacramento Kings,Los Angeles Clippers,121,133,L,SAC vs. LAC,2018-11-29
+0021800319,22018,Boston Celtics,Cleveland Cavaliers,128,95,L,CLE @ BOS,2018-11-30
+0021800320,22018,Charlotte Hornets,Utah Jazz,111,119,L,CHA vs. UTA,2018-11-30
+0021800321,22018,Detroit Pistons,Chicago Bulls,107,88,L,CHI @ DET,2018-11-30
+0021800322,22018,Philadelphia 76ers,Washington Wizards,123,98,L,WAS @ PHI,2018-11-30
+0021800323,22018,Brooklyn Nets,Memphis Grizzlies,125,131,W,MEM @ BKN,2018-11-30
+0021800324,22018,Miami Heat,New Orleans Pelicans,106,101,L,NOP @ MIA,2018-11-30
+0021800325,22018,Oklahoma City Thunder,Atlanta Hawks,124,109,W,OKC vs. ATL,2018-11-30
+0021800326,22018,San Antonio Spurs,Houston Rockets,105,136,L,SAS vs. HOU,2018-11-30
+0021800327,22018,Phoenix Suns,Orlando Magic,85,99,W,ORL @ PHX,2018-11-30
+0021800328,22018,Los Angeles Lakers,Dallas Mavericks,114,103,W,LAL vs. DAL,2018-11-30
+0021800329,22018,Portland Trail Blazers,Denver Nuggets,112,113,L,POR vs. DEN,2018-11-30
+0021800330,22018,New York Knicks,Milwaukee Bucks,136,134,W,NYK vs. MIL,2018-12-01
+0021800331,22018,Detroit Pistons,Golden State Warriors,111,102,L,GSW @ DET,2018-12-01
+0021800332,22018,Cleveland Cavaliers,Toronto Raptors,95,106,W,TOR @ CLE,2018-12-01
+0021800333,22018,Washington Wizards,Brooklyn Nets,102,88,W,WAS vs. BKN,2018-12-01
+0021800334,22018,Houston Rockets,Chicago Bulls,121,105,L,CHI @ HOU,2018-12-01
+0021800335,22018,Minnesota Timberwolves,Boston Celtics,109,118,L,MIN vs. BOS,2018-12-01
+0021800336,22018,Sacramento Kings,Indiana Pacers,111,110,L,IND @ SAC,2018-12-01
+0021800337,22018,Los Angeles Lakers,Phoenix Suns,120,96,L,PHX @ LAL,2018-12-02
+0021800338,22018,Charlotte Hornets,New Orleans Pelicans,109,119,L,CHA vs. NOP,2018-12-02
+0021800339,22018,Miami Heat,Utah Jazz,102,100,L,UTA @ MIA,2018-12-02
+0021800340,22018,Philadelphia 76ers,Memphis Grizzlies,103,95,L,MEM @ PHI,2018-12-02
+0021800341,22018,Dallas Mavericks,Los Angeles Clippers,114,110,L,LAC @ DAL,2018-12-02
+0021800342,22018,San Antonio Spurs,Portland Trail Blazers,131,118,W,SAS vs. POR,2018-12-02
+0021800343,22018,Detroit Pistons,Oklahoma City Thunder,83,110,W,OKC @ DET,2018-12-03
+0021800344,22018,Atlanta Hawks,Golden State Warriors,111,128,W,GSW @ ATL,2018-12-03
+0021800345,22018,Brooklyn Nets,Cleveland Cavaliers,97,99,L,BKN vs. CLE,2018-12-03
+0021800346,22018,New York Knicks,Washington Wizards,107,110,W,WAS @ NYK,2018-12-03
+0021800347,22018,Toronto Raptors,Denver Nuggets,103,106,L,TOR vs. DEN,2018-12-03
+0021800348,22018,Minnesota Timberwolves,Houston Rockets,103,91,W,MIN vs. HOU,2018-12-03
+0021800349,22018,New Orleans Pelicans,Los Angeles Clippers,126,129,W,LAC @ NOP,2018-12-03
+0021800350,22018,Indiana Pacers,Chicago Bulls,96,90,W,IND vs. CHI,2018-12-04
+0021800351,22018,Miami Heat,Orlando Magic,90,105,L,MIA vs. ORL,2018-12-04
+0021800352,22018,Dallas Mavericks,Portland Trail Blazers,111,102,W,DAL vs. POR,2018-12-04
+0021800353,22018,Phoenix Suns,Sacramento Kings,105,122,W,SAC @ PHX,2018-12-04
+0021800354,22018,Utah Jazz,San Antonio Spurs,139,105,W,UTA vs. SAS,2018-12-04
+0021800355,22018,Cleveland Cavaliers,Golden State Warriors,105,129,W,GSW @ CLE,2018-12-05
+0021800356,22018,Orlando Magic,Denver Nuggets,118,124,W,DEN @ ORL,2018-12-05
+0021800357,22018,Atlanta Hawks,Washington Wizards,117,131,W,WAS @ ATL,2018-12-05
+0021800358,22018,Brooklyn Nets,Oklahoma City Thunder,112,114,W,OKC @ BKN,2018-12-05
+0021800359,22018,Toronto Raptors,Philadelphia 76ers,113,102,L,PHI @ TOR,2018-12-05
+0021800360,22018,Memphis Grizzlies,Los Angeles Clippers,96,86,L,LAC @ MEM,2018-12-05
+0021800361,22018,Milwaukee Bucks,Detroit Pistons,115,92,W,MIL vs. DET,2018-12-05
+0021800362,22018,Minnesota Timberwolves,Charlotte Hornets,121,104,W,MIN vs. CHA,2018-12-05
+0021800363,22018,New Orleans Pelicans,Dallas Mavericks,132,106,W,NOP vs. DAL,2018-12-05
+0021800364,22018,Los Angeles Lakers,San Antonio Spurs,121,113,L,SAS @ LAL,2018-12-05
+0021800365,22018,Boston Celtics,New York Knicks,128,100,L,NYK @ BOS,2018-12-06
+0021800366,22018,Portland Trail Blazers,Phoenix Suns,108,86,W,POR vs. PHX,2018-12-06
+0021800367,22018,Utah Jazz,Houston Rockets,118,91,L,HOU @ UTA,2018-12-06
+0021800368,22018,Charlotte Hornets,Denver Nuggets,113,107,L,DEN @ CHA,2018-12-07
+0021800369,22018,Detroit Pistons,Philadelphia 76ers,111,117,W,PHI @ DET,2018-12-07
+0021800370,22018,Orlando Magic,Indiana Pacers,90,112,L,ORL vs. IND,2018-12-07
+0021800371,22018,Brooklyn Nets,Toronto Raptors,106,105,L,TOR @ BKN,2018-12-07
+0021800372,22018,Cleveland Cavaliers,Sacramento Kings,110,129,W,SAC @ CLE,2018-12-07
+0021800373,22018,Chicago Bulls,Oklahoma City Thunder,114,112,L,OKC @ CHI,2018-12-07
+0021800374,22018,New Orleans Pelicans,Memphis Grizzlies,103,107,L,NOP vs. MEM,2018-12-07
+0021800375,22018,San Antonio Spurs,Los Angeles Lakers,133,120,L,LAL @ SAS,2018-12-07
+0021800376,22018,Phoenix Suns,Miami Heat,98,115,L,PHX vs. MIA,2018-12-07
+0021800377,22018,Milwaukee Bucks,Golden State Warriors,95,105,W,GSW @ MIL,2018-12-07
+0021800378,22018,Dallas Mavericks,Houston Rockets,107,104,W,DAL vs. HOU,2018-12-08
+0021800379,22018,Indiana Pacers,Sacramento Kings,107,97,W,IND vs. SAC,2018-12-08
+0021800380,22018,Atlanta Hawks,Denver Nuggets,106,98,L,DEN @ ATL,2018-12-08
+0021800381,22018,Cleveland Cavaliers,Washington Wizards,116,101,L,WAS @ CLE,2018-12-08
+0021800382,22018,New York Knicks,Brooklyn Nets,104,112,L,NYK vs. BKN,2018-12-08
+0021800383,22018,Chicago Bulls,Boston Celtics,77,133,L,CHI vs. BOS,2018-12-08
+0021800384,22018,Memphis Grizzlies,Los Angeles Lakers,88,111,W,LAL @ MEM,2018-12-08
+0021800385,22018,Portland Trail Blazers,Minnesota Timberwolves,113,105,W,POR vs. MIN,2018-12-08
+0021800386,22018,Los Angeles Clippers,Miami Heat,98,121,L,LAC vs. MIA,2018-12-08
+0021800387,22018,Detroit Pistons,New Orleans Pelicans,108,116,L,DET vs. NOP,2018-12-09
+0021800388,22018,Toronto Raptors,Milwaukee Bucks,99,104,L,TOR vs. MIL,2018-12-09
+0021800389,22018,New York Knicks,Charlotte Hornets,107,119,L,NYK vs. CHA,2018-12-09
+0021800390,22018,San Antonio Spurs,Utah Jazz,110,97,L,UTA @ SAS,2018-12-09
+0021800391,22018,Indiana Pacers,Washington Wizards,109,101,W,IND vs. WAS,2018-12-10
+0021800392,22018,Philadelphia 76ers,Detroit Pistons,116,102,W,PHI vs. DET,2018-12-10
+0021800393,22018,Boston Celtics,New Orleans Pelicans,113,100,L,NOP @ BOS,2018-12-10
+0021800394,22018,Chicago Bulls,Sacramento Kings,89,108,L,CHI vs. SAC,2018-12-10
+0021800395,22018,Milwaukee Bucks,Cleveland Cavaliers,108,92,L,CLE @ MIL,2018-12-10
+0021800396,22018,Oklahoma City Thunder,Utah Jazz,122,113,L,UTA @ OKC,2018-12-10
+0021800397,22018,Dallas Mavericks,Orlando Magic,101,76,W,DAL vs. ORL,2018-12-10
+0021800398,22018,Denver Nuggets,Memphis Grizzlies,105,99,L,MEM @ DEN,2018-12-10
+0021800399,22018,Phoenix Suns,Los Angeles Clippers,119,123,W,LAC @ PHX,2018-12-10
+0021800400,22018,Golden State Warriors,Minnesota Timberwolves,116,108,W,GSW vs. MIN,2018-12-10
+0021800401,22018,Los Angeles Lakers,Miami Heat,108,105,W,LAL vs. MIA,2018-12-10
+0021800402,22018,Houston Rockets,Portland Trail Blazers,111,104,W,HOU vs. POR,2018-12-11
+0021800403,22018,San Antonio Spurs,Phoenix Suns,111,86,L,PHX @ SAS,2018-12-11
+0021800404,22018,Los Angeles Clippers,Toronto Raptors,99,123,W,TOR @ LAC,2018-12-11
+0021800405,22018,Charlotte Hornets,Detroit Pistons,108,107,L,DET @ CHA,2018-12-12
+0021800406,22018,Cleveland Cavaliers,New York Knicks,113,106,W,CLE vs. NYK,2018-12-12
+0021800407,22018,Indiana Pacers,Milwaukee Bucks,113,97,L,MIL @ IND,2018-12-12
+0021800408,22018,Philadelphia 76ers,Brooklyn Nets,124,127,L,PHI vs. BKN,2018-12-12
+0021800409,22018,Washington Wizards,Boston Celtics,125,130,L,WAS vs. BOS,2018-12-12
+0021800410,22018,Memphis Grizzlies,Portland Trail Blazers,92,83,L,POR @ MEM,2018-12-12
+0021800411,22018,New Orleans Pelicans,Oklahoma City Thunder,118,114,L,OKC @ NOP,2018-12-12
+0021800412,22018,Dallas Mavericks,Atlanta Hawks,114,107,L,ATL @ DAL,2018-12-12
+0021800413,22018,Utah Jazz,Miami Heat,111,84,L,MIA @ UTA,2018-12-12
+0021800414,22018,Sacramento Kings,Minnesota Timberwolves,141,130,L,MIN @ SAC,2018-12-12
+0021800415,22018,Golden State Warriors,Toronto Raptors,93,113,L,GSW vs. TOR,2018-12-12
+0021800416,22018,Houston Rockets,Los Angeles Lakers,126,111,W,HOU vs. LAL,2018-12-13
+0021800417,22018,San Antonio Spurs,Los Angeles Clippers,125,87,W,SAS vs. LAC,2018-12-13
+0021800418,22018,Orlando Magic,Chicago Bulls,97,91,L,CHI @ ORL,2018-12-13
+0021800419,22018,Phoenix Suns,Dallas Mavericks,99,89,L,DAL @ PHX,2018-12-13
+0021800420,22018,Boston Celtics,Atlanta Hawks,129,108,W,BOS vs. ATL,2018-12-14
+0021800421,22018,Charlotte Hornets,New York Knicks,124,126,L,CHA vs. NYK,2018-12-14
+0021800422,22018,Brooklyn Nets,Washington Wizards,125,118,L,WAS @ BKN,2018-12-14
+0021800423,22018,Cleveland Cavaliers,Milwaukee Bucks,102,114,W,MIL @ CLE,2018-12-14
+0021800424,22018,Philadelphia 76ers,Indiana Pacers,101,113,L,PHI vs. IND,2018-12-14
+0021800425,22018,Memphis Grizzlies,Miami Heat,97,100,L,MEM vs. MIA,2018-12-14
+0021800426,22018,Denver Nuggets,Oklahoma City Thunder,109,98,W,DEN vs. OKC,2018-12-14
+0021800427,22018,Portland Trail Blazers,Toronto Raptors,128,122,L,TOR @ POR,2018-12-14
+0021800428,22018,Sacramento Kings,Golden State Warriors,125,130,W,GSW @ SAC,2018-12-14
+0021800429,22018,Orlando Magic,Utah Jazz,96,89,W,ORL vs. UTA,2018-12-15
+0021800430,22018,Charlotte Hornets,Los Angeles Lakers,100,128,W,LAL @ CHA,2018-12-15
+0021800431,22018,Detroit Pistons,Boston Celtics,113,104,L,BOS @ DET,2018-12-15
+0021800432,22018,Memphis Grizzlies,Houston Rockets,97,105,L,MEM vs. HOU,2018-12-15
+0021800433,22018,San Antonio Spurs,Chicago Bulls,93,98,W,CHI @ SAS,2018-12-15
+0021800434,22018,Oklahoma City Thunder,Los Angeles Clippers,110,104,L,LAC @ OKC,2018-12-15
+0021800435,22018,Phoenix Suns,Minnesota Timberwolves,107,99,L,MIN @ PHX,2018-12-15
+0021800436,22018,Brooklyn Nets,Atlanta Hawks,144,127,L,ATL @ BKN,2018-12-16
+0021800437,22018,Cleveland Cavaliers,Philadelphia 76ers,105,128,W,PHI @ CLE,2018-12-16
+0021800438,22018,Indiana Pacers,New York Knicks,110,99,W,IND vs. NYK,2018-12-16
+0021800439,22018,Washington Wizards,Los Angeles Lakers,128,110,W,WAS vs. LAL,2018-12-16
+0021800440,22018,Dallas Mavericks,Sacramento Kings,113,120,L,DAL vs. SAC,2018-12-16
+0021800441,22018,New Orleans Pelicans,Miami Heat,96,102,W,MIA @ NOP,2018-12-16
+0021800442,22018,Denver Nuggets,Toronto Raptors,95,86,L,TOR @ DEN,2018-12-16
+0021800443,22018,Detroit Pistons,Milwaukee Bucks,104,107,L,DET vs. MIL,2018-12-17
+0021800444,22018,New York Knicks,Phoenix Suns,110,128,W,PHX @ NYK,2018-12-17
+0021800445,22018,Houston Rockets,Utah Jazz,102,97,W,HOU vs. UTA,2018-12-17
+0021800446,22018,Minnesota Timberwolves,Sacramento Kings,132,105,W,MIN vs. SAC,2018-12-17
+0021800447,22018,Oklahoma City Thunder,Chicago Bulls,121,96,L,CHI @ OKC,2018-12-17
+0021800448,22018,San Antonio Spurs,Philadelphia 76ers,123,96,W,SAS vs. PHI,2018-12-17
+0021800449,22018,Golden State Warriors,Memphis Grizzlies,110,93,L,MEM @ GSW,2018-12-17
+0021800450,22018,Los Angeles Clippers,Portland Trail Blazers,127,131,L,LAC vs. POR,2018-12-17
+0021800451,22018,Indiana Pacers,Cleveland Cavaliers,91,92,L,IND vs. CLE,2018-12-18
+0021800452,22018,Atlanta Hawks,Washington Wizards,118,110,W,ATL vs. WAS,2018-12-18
+0021800453,22018,Brooklyn Nets,Los Angeles Lakers,115,110,W,BKN vs. LAL,2018-12-18
+0021800454,22018,Denver Nuggets,Dallas Mavericks,126,118,W,DEN vs. DAL,2018-12-18
+0021800455,22018,Charlotte Hornets,Cleveland Cavaliers,110,99,W,CHA vs. CLE,2018-12-19
+0021800456,22018,Orlando Magic,San Antonio Spurs,90,129,W,SAS @ ORL,2018-12-19
+0021800457,22018,Philadelphia 76ers,New York Knicks,131,109,W,PHI vs. NYK,2018-12-19
+0021800458,22018,Boston Celtics,Phoenix Suns,103,111,L,BOS vs. PHX,2018-12-19
+0021800459,22018,Toronto Raptors,Indiana Pacers,99,96,L,IND @ TOR,2018-12-19
+0021800460,22018,Chicago Bulls,Brooklyn Nets,93,96,L,CHI vs. BKN,2018-12-19
+0021800461,22018,Houston Rockets,Washington Wizards,136,118,W,HOU vs. WAS,2018-12-19
+0021800462,22018,Milwaukee Bucks,New Orleans Pelicans,123,115,L,NOP @ MIL,2018-12-19
+0021800463,22018,Minnesota Timberwolves,Detroit Pistons,123,129,W,DET @ MIN,2018-12-19
+0021800464,22018,Utah Jazz,Golden State Warriors,108,103,W,UTA vs. GSW,2018-12-19
+0021800465,22018,Portland Trail Blazers,Memphis Grizzlies,99,92,L,MEM @ POR,2018-12-19
+0021800466,22018,Sacramento Kings,Oklahoma City Thunder,113,132,L,SAC vs. OKC,2018-12-19
+0021800467,22018,Miami Heat,Houston Rockets,101,99,W,MIA vs. HOU,2018-12-20
+0021800468,22018,Los Angeles Clippers,Dallas Mavericks,125,121,L,DAL @ LAC,2018-12-20
+0021800469,22018,Charlotte Hornets,Detroit Pistons,98,86,L,DET @ CHA,2018-12-21
+0021800470,22018,Toronto Raptors,Cleveland Cavaliers,126,110,L,CLE @ TOR,2018-12-21
+0021800471,22018,Brooklyn Nets,Indiana Pacers,106,114,W,IND @ BKN,2018-12-21
+0021800472,22018,New York Knicks,Atlanta Hawks,107,114,L,NYK vs. ATL,2018-12-21
+0021800473,22018,Boston Celtics,Milwaukee Bucks,107,120,W,MIL @ BOS,2018-12-21
+0021800474,22018,Chicago Bulls,Orlando Magic,90,80,L,ORL @ CHI,2018-12-21
+0021800475,22018,San Antonio Spurs,Minnesota Timberwolves,124,98,W,SAS vs. MIN,2018-12-21
+0021800476,22018,Portland Trail Blazers,Utah Jazz,90,120,W,UTA @ POR,2018-12-21
+0021800477,22018,Sacramento Kings,Memphis Grizzlies,102,99,W,SAC vs. MEM,2018-12-21
+0021800478,22018,Los Angeles Lakers,New Orleans Pelicans,112,104,W,LAL vs. NOP,2018-12-21
+0021800479,22018,Los Angeles Clippers,Denver Nuggets,132,111,L,DEN @ LAC,2018-12-22
+0021800480,22018,Washington Wizards,Phoenix Suns,149,146,W,WAS vs. PHX,2018-12-22
+0021800481,22018,Philadelphia 76ers,Toronto Raptors,126,101,W,PHI vs. TOR,2018-12-22
+0021800482,22018,Miami Heat,Milwaukee Bucks,94,87,W,MIA vs. MIL,2018-12-22
+0021800483,22018,Houston Rockets,San Antonio Spurs,108,101,L,SAS @ HOU,2018-12-22
+0021800484,22018,Golden State Warriors,Dallas Mavericks,120,116,L,DAL @ GSW,2018-12-22
+0021800485,22018,Utah Jazz,Oklahoma City Thunder,106,107,L,UTA vs. OKC,2018-12-22
+0021800486,22018,Detroit Pistons,Atlanta Hawks,95,98,L,DET vs. ATL,2018-12-23
+0021800487,22018,Indiana Pacers,Washington Wizards,105,89,W,IND vs. WAS,2018-12-23
+0021800488,22018,Boston Celtics,Charlotte Hornets,119,103,W,BOS vs. CHA,2018-12-23
+0021800489,22018,Brooklyn Nets,Phoenix Suns,111,103,W,BKN vs. PHX,2018-12-23
+0021800490,22018,Cleveland Cavaliers,Chicago Bulls,92,112,W,CHI @ CLE,2018-12-23
+0021800491,22018,Orlando Magic,Miami Heat,91,115,L,ORL vs. MIA,2018-12-23
+0021800492,22018,Sacramento Kings,New Orleans Pelicans,122,117,W,SAC vs. NOP,2018-12-23
+0021800493,22018,Oklahoma City Thunder,Minnesota Timberwolves,112,114,L,OKC vs. MIN,2018-12-23
+0021800494,22018,Golden State Warriors,Los Angeles Clippers,129,127,L,LAC @ GSW,2018-12-23
+0021800495,22018,Portland Trail Blazers,Dallas Mavericks,121,118,L,DAL @ POR,2018-12-23
+0021800496,22018,Los Angeles Lakers,Memphis Grizzlies,99,107,L,LAL vs. MEM,2018-12-23
+0021800497,22018,New York Knicks,Milwaukee Bucks,95,109,L,NYK vs. MIL,2018-12-25
+0021800498,22018,Houston Rockets,Oklahoma City Thunder,113,109,W,HOU vs. OKC,2018-12-25
+0021800499,22018,Boston Celtics,Philadelphia 76ers,121,114,W,BOS vs. PHI,2018-12-25
+0021800500,22018,Golden State Warriors,Los Angeles Lakers,101,127,W,LAL @ GSW,2018-12-25
+0021800501,22018,Utah Jazz,Portland Trail Blazers,117,96,L,POR @ UTA,2018-12-25
+0021800502,22018,Detroit Pistons,Washington Wizards,106,95,W,DET vs. WAS,2018-12-26
+0021800503,22018,Orlando Magic,Phoenix Suns,120,122,L,ORL vs. PHX,2018-12-26
+0021800504,22018,Atlanta Hawks,Indiana Pacers,121,129,W,IND @ ATL,2018-12-26
+0021800505,22018,Brooklyn Nets,Charlotte Hornets,134,132,L,CHA @ BKN,2018-12-26
+0021800506,22018,Miami Heat,Toronto Raptors,104,106,L,MIA vs. TOR,2018-12-26
+0021800507,22018,Chicago Bulls,Minnesota Timberwolves,94,119,L,CHI vs. MIN,2018-12-26
+0021800508,22018,Memphis Grizzlies,Cleveland Cavaliers,95,87,W,MEM vs. CLE,2018-12-26
+0021800509,22018,Dallas Mavericks,New Orleans Pelicans,122,119,L,NOP @ DAL,2018-12-26
+0021800510,22018,San Antonio Spurs,Denver Nuggets,111,103,L,DEN @ SAS,2018-12-26
+0021800511,22018,Los Angeles Clippers,Sacramento Kings,127,118,W,LAC vs. SAC,2018-12-26
+0021800512,22018,Houston Rockets,Boston Celtics,127,113,L,BOS @ HOU,2018-12-27
+0021800513,22018,Milwaukee Bucks,New York Knicks,112,96,L,NYK @ MIL,2018-12-27
+0021800514,22018,Sacramento Kings,Los Angeles Lakers,117,116,W,SAC vs. LAL,2018-12-27
+0021800515,22018,Utah Jazz,Philadelphia 76ers,97,114,L,UTA vs. PHI,2018-12-27
+0021800516,22018,Golden State Warriors,Portland Trail Blazers,109,110,W,POR @ GSW,2018-12-27
+0021800517,22018,Charlotte Hornets,Brooklyn Nets,100,87,W,CHA vs. BKN,2018-12-28
+0021800518,22018,Indiana Pacers,Detroit Pistons,125,88,W,IND vs. DET,2018-12-28
+0021800519,22018,Orlando Magic,Toronto Raptors,116,87,L,TOR @ ORL,2018-12-28
+0021800520,22018,Washington Wizards,Chicago Bulls,92,101,L,WAS vs. CHI,2018-12-28
+0021800521,22018,Miami Heat,Cleveland Cavaliers,118,94,L,CLE @ MIA,2018-12-28
+0021800522,22018,Minnesota Timberwolves,Atlanta Hawks,120,123,W,ATL @ MIN,2018-12-28
+0021800523,22018,New Orleans Pelicans,Dallas Mavericks,114,112,W,NOP vs. DAL,2018-12-28
+0021800524,22018,Denver Nuggets,San Antonio Spurs,102,99,W,DEN vs. SAS,2018-12-28
+0021800525,22018,Phoenix Suns,Oklahoma City Thunder,102,118,L,PHX vs. OKC,2018-12-28
+0021800526,22018,Los Angeles Lakers,Los Angeles Clippers,107,118,L,LAL vs. LAC,2018-12-28
+0021800527,22018,Milwaukee Bucks,Brooklyn Nets,129,115,L,BKN @ MIL,2018-12-29
+0021800528,22018,New Orleans Pelicans,Houston Rockets,104,108,W,HOU @ NOP,2018-12-29
+0021800529,22018,Atlanta Hawks,Cleveland Cavaliers,111,108,L,CLE @ ATL,2018-12-29
+0021800530,22018,Washington Wizards,Charlotte Hornets,130,126,L,CHA @ WAS,2018-12-29
+0021800531,22018,Memphis Grizzlies,Boston Celtics,103,112,W,BOS @ MEM,2018-12-29
+0021800532,22018,Utah Jazz,New York Knicks,129,97,L,NYK @ UTA,2018-12-29
+0021800533,22018,Phoenix Suns,Denver Nuggets,118,122,W,DEN @ PHX,2018-12-29
+0021800534,22018,Portland Trail Blazers,Golden State Warriors,105,115,L,POR vs. GSW,2018-12-29
+0021800535,22018,Los Angeles Clippers,San Antonio Spurs,111,122,L,LAC vs. SAS,2018-12-29
+0021800536,22018,Orlando Magic,Detroit Pistons,109,107,W,ORL vs. DET,2018-12-30
+0021800537,22018,Miami Heat,Minnesota Timberwolves,104,113,W,MIN @ MIA,2018-12-30
+0021800538,22018,Toronto Raptors,Chicago Bulls,95,89,W,TOR vs. CHI,2018-12-30
+0021800539,22018,Dallas Mavericks,Oklahoma City Thunder,105,103,W,DAL vs. OKC,2018-12-30
+0021800540,22018,Portland Trail Blazers,Philadelphia 76ers,129,95,W,POR vs. PHI,2018-12-30
+0021800541,22018,Los Angeles Lakers,Sacramento Kings,121,114,L,SAC @ LAL,2018-12-30
+0021800542,22018,Indiana Pacers,Atlanta Hawks,116,108,W,IND vs. ATL,2018-12-31
+0021800543,22018,Charlotte Hornets,Orlando Magic,125,100,L,ORL @ CHA,2018-12-31
+0021800544,22018,Houston Rockets,Memphis Grizzlies,113,101,L,MEM @ HOU,2018-12-31
+0021800545,22018,San Antonio Spurs,Boston Celtics,120,111,L,BOS @ SAS,2018-12-31
+0021800546,22018,New Orleans Pelicans,Minnesota Timberwolves,123,114,W,NOP vs. MIN,2018-12-31
+0021800547,22018,Oklahoma City Thunder,Dallas Mavericks,122,102,W,OKC vs. DAL,2018-12-31
+0021800548,22018,Phoenix Suns,Golden State Warriors,109,132,L,PHX vs. GSW,2018-12-31
+0021800549,22018,Toronto Raptors,Utah Jazz,122,116,W,TOR vs. UTA,2019-01-01
+0021800550,22018,Milwaukee Bucks,Detroit Pistons,121,98,L,DET @ MIL,2019-01-01
+0021800551,22018,Denver Nuggets,New York Knicks,115,108,L,NYK @ DEN,2019-01-01
+0021800552,22018,Sacramento Kings,Portland Trail Blazers,108,113,W,POR @ SAC,2019-01-01
+0021800553,22018,Los Angeles Clippers,Philadelphia 76ers,113,119,L,LAC vs. PHI,2019-01-01
+0021800554,22018,Charlotte Hornets,Dallas Mavericks,84,122,W,DAL @ CHA,2019-01-02
+0021800555,22018,Cleveland Cavaliers,Miami Heat,92,117,L,CLE vs. MIA,2019-01-02
+0021800556,22018,Washington Wizards,Atlanta Hawks,114,98,W,WAS vs. ATL,2019-01-02
+0021800557,22018,Brooklyn Nets,New Orleans Pelicans,126,121,W,BKN vs. NOP,2019-01-02
+0021800558,22018,Boston Celtics,Minnesota Timberwolves,115,102,L,MIN @ BOS,2019-01-02
+0021800559,22018,Chicago Bulls,Orlando Magic,84,112,W,ORL @ CHI,2019-01-02
+0021800560,22018,Memphis Grizzlies,Detroit Pistons,94,101,L,MEM vs. DET,2019-01-02
+0021800561,22018,Phoenix Suns,Philadelphia 76ers,127,132,W,PHI @ PHX,2019-01-02
+0021800562,22018,Los Angeles Lakers,Oklahoma City Thunder,100,107,L,LAL vs. OKC,2019-01-02
+0021800563,22018,San Antonio Spurs,Toronto Raptors,125,107,W,SAS vs. TOR,2019-01-03
+0021800564,22018,Sacramento Kings,Denver Nuggets,113,117,W,DEN @ SAC,2019-01-03
+0021800565,22018,Golden State Warriors,Houston Rockets,134,135,L,GSW vs. HOU,2019-01-03
+0021800566,22018,Boston Celtics,Dallas Mavericks,114,93,W,BOS vs. DAL,2019-01-04
+0021800567,22018,Cleveland Cavaliers,Utah Jazz,91,117,W,UTA @ CLE,2019-01-04
+0021800568,22018,Miami Heat,Washington Wizards,115,109,L,WAS @ MIA,2019-01-04
+0021800569,22018,Chicago Bulls,Indiana Pacers,116,119,W,IND @ CHI,2019-01-04
+0021800570,22018,Memphis Grizzlies,Brooklyn Nets,100,109,W,BKN @ MEM,2019-01-04
+0021800571,22018,Minnesota Timberwolves,Orlando Magic,120,103,W,MIN vs. ORL,2019-01-04
+0021800572,22018,Milwaukee Bucks,Atlanta Hawks,144,112,L,ATL @ MIL,2019-01-04
+0021800573,22018,Phoenix Suns,Los Angeles Clippers,111,121,L,PHX vs. LAC,2019-01-04
+0021800574,22018,Los Angeles Lakers,New York Knicks,112,119,L,LAL vs. NYK,2019-01-04
+0021800575,22018,Portland Trail Blazers,Oklahoma City Thunder,109,111,L,POR vs. OKC,2019-01-04
+0021800576,22018,Denver Nuggets,Charlotte Hornets,123,110,L,CHA @ DEN,2019-01-05
+0021800577,22018,Detroit Pistons,Utah Jazz,105,110,W,UTA @ DET,2019-01-05
+0021800578,22018,Philadelphia 76ers,Dallas Mavericks,106,100,W,PHI vs. DAL,2019-01-05
+0021800579,22018,Cleveland Cavaliers,New Orleans Pelicans,98,133,W,NOP @ CLE,2019-01-05
+0021800580,22018,Milwaukee Bucks,Toronto Raptors,116,123,L,MIL vs. TOR,2019-01-05
+0021800581,22018,San Antonio Spurs,Memphis Grizzlies,108,88,L,MEM @ SAS,2019-01-05
+0021800582,22018,Portland Trail Blazers,Houston Rockets,110,101,L,HOU @ POR,2019-01-05
+0021800583,22018,Sacramento Kings,Golden State Warriors,123,127,L,SAC vs. GSW,2019-01-05
+0021800584,22018,Chicago Bulls,Brooklyn Nets,100,117,L,CHI vs. BKN,2019-01-06
+0021800585,22018,Minnesota Timberwolves,Los Angeles Lakers,108,86,L,LAL @ MIN,2019-01-06
+0021800586,22018,Los Angeles Clippers,Orlando Magic,106,96,W,LAC vs. ORL,2019-01-06
+0021800587,22018,Atlanta Hawks,Miami Heat,106,82,W,ATL vs. MIA,2019-01-06
+0021800588,22018,Oklahoma City Thunder,Washington Wizards,98,116,W,WAS @ OKC,2019-01-06
+0021800589,22018,Toronto Raptors,Indiana Pacers,121,105,W,TOR vs. IND,2019-01-06
+0021800590,22018,Phoenix Suns,Charlotte Hornets,113,119,W,CHA @ PHX,2019-01-06
+0021800591,22018,Detroit Pistons,San Antonio Spurs,107,119,L,DET vs. SAS,2019-01-07
+0021800592,22018,Boston Celtics,Brooklyn Nets,116,95,W,BOS vs. BKN,2019-01-07
+0021800593,22018,Houston Rockets,Denver Nuggets,125,113,W,HOU vs. DEN,2019-01-07
+0021800594,22018,Milwaukee Bucks,Utah Jazz,114,102,L,UTA @ MIL,2019-01-07
+0021800595,22018,New Orleans Pelicans,Memphis Grizzlies,114,95,L,MEM @ NOP,2019-01-07
+0021800596,22018,Dallas Mavericks,Los Angeles Lakers,97,107,W,LAL @ DAL,2019-01-07
+0021800597,22018,Portland Trail Blazers,New York Knicks,111,101,L,NYK @ POR,2019-01-07
+0021800598,22018,Sacramento Kings,Orlando Magic,111,95,W,SAC vs. ORL,2019-01-07
+0021800599,22018,Cleveland Cavaliers,Indiana Pacers,115,123,L,CLE vs. IND,2019-01-08
+0021800600,22018,Philadelphia 76ers,Washington Wizards,132,115,W,PHI vs. WAS,2019-01-08
+0021800601,22018,Miami Heat,Denver Nuggets,99,103,W,DEN @ MIA,2019-01-08
+0021800602,22018,Toronto Raptors,Atlanta Hawks,104,101,L,ATL @ TOR,2019-01-08
+0021800603,22018,Oklahoma City Thunder,Minnesota Timberwolves,117,119,L,OKC vs. MIN,2019-01-08
+0021800604,22018,Phoenix Suns,Sacramento Kings,115,111,L,SAC @ PHX,2019-01-08
+0021800605,22018,Golden State Warriors,New York Knicks,122,95,W,GSW vs. NYK,2019-01-08
+0021800606,22018,Los Angeles Clippers,Charlotte Hornets,128,109,W,LAC vs. CHA,2019-01-08
+0021800607,22018,Boston Celtics,Indiana Pacers,135,108,W,BOS vs. IND,2019-01-09
+0021800608,22018,Washington Wizards,Philadelphia 76ers,123,106,L,PHI @ WAS,2019-01-09
+0021800609,22018,Brooklyn Nets,Atlanta Hawks,116,100,L,ATL @ BKN,2019-01-09
+0021800610,22018,Houston Rockets,Milwaukee Bucks,109,116,L,HOU vs. MIL,2019-01-09
+0021800611,22018,Memphis Grizzlies,San Antonio Spurs,96,86,L,SAS @ MEM,2019-01-09
+0021800612,22018,New Orleans Pelicans,Cleveland Cavaliers,140,124,W,NOP vs. CLE,2019-01-09
+0021800613,22018,Dallas Mavericks,Phoenix Suns,104,94,L,PHX @ DAL,2019-01-09
+0021800614,22018,Utah Jazz,Orlando Magic,106,93,W,UTA vs. ORL,2019-01-09
+0021800615,22018,Portland Trail Blazers,Chicago Bulls,124,112,L,CHI @ POR,2019-01-09
+0021800616,22018,Los Angeles Lakers,Detroit Pistons,113,100,W,LAL vs. DET,2019-01-09
+0021800617,22018,Miami Heat,Boston Celtics,115,99,L,BOS @ MIA,2019-01-10
+0021800618,22018,Denver Nuggets,Los Angeles Clippers,121,100,L,LAC @ DEN,2019-01-10
+0021800619,22018,San Antonio Spurs,Oklahoma City Thunder,154,147,W,SAS vs. OKC,2019-01-10
+0021800620,22018,Sacramento Kings,Detroit Pistons,112,102,L,DET @ SAC,2019-01-10
+0021800621,22018,Philadelphia 76ers,Atlanta Hawks,121,123,W,ATL @ PHI,2019-01-11
+0021800622,22018,Washington Wizards,Milwaukee Bucks,113,106,L,MIL @ WAS,2019-01-11
+0021800623,22018,New York Knicks,Indiana Pacers,106,121,L,NYK vs. IND,2019-01-11
+0021800624,22018,Toronto Raptors,Brooklyn Nets,122,105,W,TOR vs. BKN,2019-01-11
+0021800625,22018,Houston Rockets,Cleveland Cavaliers,141,113,L,CLE @ HOU,2019-01-11
+0021800626,22018,Minnesota Timberwolves,Dallas Mavericks,115,119,L,MIN vs. DAL,2019-01-11
+0021800627,22018,Utah Jazz,Los Angeles Lakers,113,95,W,UTA vs. LAL,2019-01-11
+0021800628,22018,Portland Trail Blazers,Charlotte Hornets,127,96,L,CHA @ POR,2019-01-11
+0021800629,22018,Golden State Warriors,Chicago Bulls,146,109,L,CHI @ GSW,2019-01-11
+0021800630,22018,Los Angeles Clippers,Detroit Pistons,104,109,L,LAC vs. DET,2019-01-12
+0021800631,22018,Miami Heat,Memphis Grizzlies,112,108,L,MEM @ MIA,2019-01-12
+0021800632,22018,Orlando Magic,Boston Celtics,105,103,L,BOS @ ORL,2019-01-12
+0021800633,22018,Minnesota Timberwolves,New Orleans Pelicans,110,106,W,MIN vs. NOP,2019-01-12
+0021800634,22018,Oklahoma City Thunder,San Antonio Spurs,122,112,L,SAS @ OKC,2019-01-12
+0021800635,22018,Phoenix Suns,Denver Nuggets,102,93,W,PHX vs. DEN,2019-01-12
+0021800636,22018,Sacramento Kings,Charlotte Hornets,104,97,L,CHA @ SAC,2019-01-12
+0021800637,22018,Utah Jazz,Chicago Bulls,110,102,W,UTA vs. CHI,2019-01-12
+0021800638,22018,New York Knicks,Philadelphia 76ers,105,108,L,NYK vs. PHI,2019-01-13
+0021800639,22018,Washington Wizards,Toronto Raptors,138,140,W,TOR @ WAS,2019-01-13
+0021800640,22018,Atlanta Hawks,Milwaukee Bucks,114,133,W,MIL @ ATL,2019-01-13
+0021800641,22018,Orlando Magic,Houston Rockets,116,109,L,HOU @ ORL,2019-01-13
+0021800642,22018,Dallas Mavericks,Golden State Warriors,114,119,W,GSW @ DAL,2019-01-13
+0021800643,22018,Denver Nuggets,Portland Trail Blazers,116,113,L,POR @ DEN,2019-01-13
+0021800644,22018,Los Angeles Lakers,Cleveland Cavaliers,95,101,W,CLE @ LAL,2019-01-13
+0021800645,22018,Brooklyn Nets,Boston Celtics,109,102,W,BKN vs. BOS,2019-01-14
+0021800646,22018,Houston Rockets,Memphis Grizzlies,112,94,W,HOU vs. MEM,2019-01-14
+0021800647,22018,San Antonio Spurs,Charlotte Hornets,93,108,L,SAS vs. CHA,2019-01-14
+0021800648,22018,Utah Jazz,Detroit Pistons,100,94,W,UTA vs. DET,2019-01-14
+0021800649,22018,Sacramento Kings,Portland Trail Blazers,115,107,W,SAC vs. POR,2019-01-14
+0021800650,22018,Los Angeles Clippers,New Orleans Pelicans,117,121,L,LAC vs. NOP,2019-01-14
+0021800651,22018,Indiana Pacers,Phoenix Suns,131,97,L,PHX @ IND,2019-01-15
+0021800652,22018,Philadelphia 76ers,Minnesota Timberwolves,149,107,L,MIN @ PHI,2019-01-15
+0021800653,22018,Atlanta Hawks,Oklahoma City Thunder,142,126,W,ATL vs. OKC,2019-01-15
+0021800654,22018,Milwaukee Bucks,Miami Heat,124,86,L,MIA @ MIL,2019-01-15
+0021800655,22018,Denver Nuggets,Golden State Warriors,111,142,W,GSW @ DEN,2019-01-15
+0021800656,22018,Los Angeles Lakers,Chicago Bulls,107,100,W,LAL vs. CHI,2019-01-15
+0021800657,22018,Detroit Pistons,Orlando Magic,120,115,L,ORL @ DET,2019-01-16
+0021800658,22018,Boston Celtics,Toronto Raptors,117,108,L,TOR @ BOS,2019-01-16
+0021800659,22018,Houston Rockets,Brooklyn Nets,142,145,W,BKN @ HOU,2019-01-16
+0021800660,22018,Memphis Grizzlies,Milwaukee Bucks,101,111,W,MIL @ MEM,2019-01-16
+0021800661,22018,Dallas Mavericks,San Antonio Spurs,101,105,W,SAS @ DAL,2019-01-16
+0021800662,22018,Portland Trail Blazers,Cleveland Cavaliers,129,112,L,CLE @ POR,2019-01-16
+0021800663,22018,Golden State Warriors,New Orleans Pelicans,147,140,W,GSW vs. NOP,2019-01-16
+0021800664,22018,Los Angeles Clippers,Utah Jazz,109,129,L,LAC vs. UTA,2019-01-16
+0021800665,22018,Washington Wizards,New York Knicks,101,100,L,NYK @ WAS,2019-01-17
+0021800666,22018,Charlotte Hornets,Sacramento Kings,114,95,L,SAC @ CHA,2019-01-17
+0021800667,22018,Indiana Pacers,Philadelphia 76ers,96,120,L,IND vs. PHI,2019-01-17
+0021800668,22018,Toronto Raptors,Phoenix Suns,111,109,W,TOR vs. PHX,2019-01-17
+0021800669,22018,Denver Nuggets,Chicago Bulls,135,105,L,CHI @ DEN,2019-01-17
+0021800670,22018,Oklahoma City Thunder,Los Angeles Lakers,128,138,W,LAL @ OKC,2019-01-17
+0021800671,22018,Boston Celtics,Memphis Grizzlies,122,116,W,BOS vs. MEM,2019-01-18
+0021800672,22018,Detroit Pistons,Miami Heat,98,93,W,DET vs. MIA,2019-01-18
+0021800673,22018,Orlando Magic,Brooklyn Nets,115,117,L,ORL vs. BKN,2019-01-18
+0021800674,22018,Minnesota Timberwolves,San Antonio Spurs,113,116,W,SAS @ MIN,2019-01-18
+0021800675,22018,Utah Jazz,Cleveland Cavaliers,115,99,W,UTA vs. CLE,2019-01-18
+0021800676,22018,Los Angeles Clippers,Golden State Warriors,94,112,L,LAC vs. GSW,2019-01-18
+0021800677,22018,Portland Trail Blazers,New Orleans Pelicans,128,112,L,NOP @ POR,2019-01-18
+0021800678,22018,Philadelphia 76ers,Oklahoma City Thunder,115,117,L,PHI vs. OKC,2019-01-19
+0021800679,22018,Charlotte Hornets,Phoenix Suns,135,115,L,PHX @ CHA,2019-01-19
+0021800680,22018,Detroit Pistons,Sacramento Kings,101,103,W,SAC @ DET,2019-01-19
+0021800681,22018,Indiana Pacers,Dallas Mavericks,111,99,W,IND vs. DAL,2019-01-19
+0021800682,22018,Orlando Magic,Milwaukee Bucks,108,118,W,MIL @ ORL,2019-01-19
+0021800683,22018,Atlanta Hawks,Boston Celtics,105,113,L,ATL vs. BOS,2019-01-19
+0021800684,22018,Toronto Raptors,Memphis Grizzlies,119,90,L,MEM @ TOR,2019-01-19
+0021800685,22018,Chicago Bulls,Miami Heat,103,117,L,CHI vs. MIA,2019-01-19
+0021800686,22018,Houston Rockets,Los Angeles Lakers,138,134,L,LAL @ HOU,2019-01-19
+0021800687,22018,Denver Nuggets,Cleveland Cavaliers,124,102,L,CLE @ DEN,2019-01-19
+0021800688,22018,Indiana Pacers,Charlotte Hornets,120,95,L,CHA @ IND,2019-01-20
+0021800689,22018,Minnesota Timberwolves,Phoenix Suns,116,114,W,MIN vs. PHX,2019-01-20
+0021800690,22018,San Antonio Spurs,Los Angeles Clippers,95,103,L,SAS vs. LAC,2019-01-20
+0021800691,22018,New York Knicks,Oklahoma City Thunder,109,127,L,NYK vs. OKC,2019-01-21
+0021800692,22018,Cleveland Cavaliers,Chicago Bulls,88,104,L,CLE vs. CHI,2019-01-21
+0021800693,22018,Washington Wizards,Detroit Pistons,101,87,W,WAS vs. DET,2019-01-21
+0021800694,22018,Milwaukee Bucks,Dallas Mavericks,116,106,L,DAL @ MIL,2019-01-21
+0021800695,22018,Atlanta Hawks,Orlando Magic,103,122,L,ATL vs. ORL,2019-01-21
+0021800696,22018,Brooklyn Nets,Sacramento Kings,123,94,W,BKN vs. SAC,2019-01-21
+0021800697,22018,Memphis Grizzlies,New Orleans Pelicans,85,105,L,MEM vs. NOP,2019-01-21
+0021800698,22018,Boston Celtics,Miami Heat,107,99,L,MIA @ BOS,2019-01-21
+0021800699,22018,Philadelphia 76ers,Houston Rockets,121,93,L,HOU @ PHI,2019-01-21
+0021800700,22018,Utah Jazz,Portland Trail Blazers,104,109,W,POR @ UTA,2019-01-21
+0021800701,22018,Los Angeles Lakers,Golden State Warriors,111,130,W,GSW @ LAL,2019-01-21
+0021800702,22018,Toronto Raptors,Sacramento Kings,120,105,W,TOR vs. SAC,2019-01-22
+0021800703,22018,Oklahoma City Thunder,Portland Trail Blazers,123,114,L,POR @ OKC,2019-01-22
+0021800704,22018,Dallas Mavericks,Los Angeles Clippers,106,98,W,DAL vs. LAC,2019-01-22
+0021800705,22018,Phoenix Suns,Minnesota Timberwolves,91,118,W,MIN @ PHX,2019-01-22
+0021800706,22018,Indiana Pacers,Toronto Raptors,110,106,L,TOR @ IND,2019-01-23
+0021800707,22018,Boston Celtics,Cleveland Cavaliers,123,103,W,BOS vs. CLE,2019-01-23
+0021800708,22018,Brooklyn Nets,Orlando Magic,114,110,W,BKN vs. ORL,2019-01-23
+0021800709,22018,Miami Heat,Los Angeles Clippers,99,111,L,MIA vs. LAC,2019-01-23
+0021800710,22018,New York Knicks,Houston Rockets,110,114,W,HOU @ NYK,2019-01-23
+0021800711,22018,Philadelphia 76ers,San Antonio Spurs,122,120,L,SAS @ PHI,2019-01-23
+0021800712,22018,Chicago Bulls,Atlanta Hawks,101,121,W,ATL @ CHI,2019-01-23
+0021800713,22018,Memphis Grizzlies,Charlotte Hornets,107,118,L,MEM vs. CHA,2019-01-23
+0021800714,22018,New Orleans Pelicans,Detroit Pistons,94,98,W,DET @ NOP,2019-01-23
+0021800715,22018,Utah Jazz,Denver Nuggets,114,108,W,UTA vs. DEN,2019-01-23
+0021800716,22018,Washington Wizards,Golden State Warriors,118,126,L,WAS vs. GSW,2019-01-24
+0021800717,22018,Oklahoma City Thunder,New Orleans Pelicans,122,116,L,NOP @ OKC,2019-01-24
+0021800718,22018,Phoenix Suns,Portland Trail Blazers,106,120,W,POR @ PHX,2019-01-24
+0021800719,22018,Los Angeles Lakers,Minnesota Timberwolves,105,120,L,LAL vs. MIN,2019-01-24
+0021800720,22018,Orlando Magic,Washington Wizards,91,95,W,WAS @ ORL,2019-01-25
+0021800721,22018,Brooklyn Nets,New York Knicks,109,99,W,BKN vs. NYK,2019-01-25
+0021800722,22018,Cleveland Cavaliers,Miami Heat,94,100,W,MIA @ CLE,2019-01-25
+0021800723,22018,Chicago Bulls,Los Angeles Clippers,101,106,L,CHI vs. LAC,2019-01-25
+0021800724,22018,Houston Rockets,Toronto Raptors,121,119,L,TOR @ HOU,2019-01-25
+0021800725,22018,Memphis Grizzlies,Sacramento Kings,96,99,W,SAC @ MEM,2019-01-25
+0021800726,22018,Dallas Mavericks,Detroit Pistons,106,101,L,DET @ DAL,2019-01-25
+0021800727,22018,Milwaukee Bucks,Charlotte Hornets,108,99,L,CHA @ MIL,2019-01-25
+0021800728,22018,Denver Nuggets,Phoenix Suns,132,95,W,DEN vs. PHX,2019-01-25
+0021800729,22018,Utah Jazz,Minnesota Timberwolves,106,102,W,UTA vs. MIN,2019-01-25
+0021800730,22018,New Orleans Pelicans,San Antonio Spurs,114,126,L,NOP vs. SAS,2019-01-26
+0021800731,22018,Memphis Grizzlies,Indiana Pacers,106,103,W,MEM vs. IND,2019-01-26
+0021800732,22018,Boston Celtics,Golden State Warriors,111,115,L,BOS vs. GSW,2019-01-26
+0021800733,22018,Denver Nuggets,Philadelphia 76ers,126,110,L,PHI @ DEN,2019-01-26
+0021800734,22018,Portland Trail Blazers,Atlanta Hawks,120,111,L,ATL @ POR,2019-01-26
+0021800735,22018,Chicago Bulls,Cleveland Cavaliers,101,104,W,CLE @ CHI,2019-01-27
+0021800736,22018,Los Angeles Clippers,Sacramento Kings,122,108,L,SAC @ LAC,2019-01-27
+0021800737,22018,Houston Rockets,Orlando Magic,103,98,W,HOU vs. ORL,2019-01-27
+0021800738,22018,Oklahoma City Thunder,Milwaukee Bucks,118,112,L,MIL @ OKC,2019-01-27
+0021800739,22018,Dallas Mavericks,Toronto Raptors,120,123,W,TOR @ DAL,2019-01-27
+0021800740,22018,Minnesota Timberwolves,Utah Jazz,111,125,W,UTA @ MIN,2019-01-27
+0021800741,22018,New York Knicks,Miami Heat,97,106,W,MIA @ NYK,2019-01-27
+0021800742,22018,San Antonio Spurs,Washington Wizards,132,119,W,SAS vs. WAS,2019-01-27
+0021800743,22018,Los Angeles Lakers,Phoenix Suns,116,102,L,PHX @ LAL,2019-01-27
+0021800744,22018,Charlotte Hornets,New York Knicks,101,92,W,CHA vs. NYK,2019-01-28
+0021800745,22018,Indiana Pacers,Golden State Warriors,100,132,W,GSW @ IND,2019-01-28
+0021800746,22018,Boston Celtics,Brooklyn Nets,112,104,L,BKN @ BOS,2019-01-28
+0021800747,22018,Memphis Grizzlies,Denver Nuggets,92,95,W,DEN @ MEM,2019-01-28
+0021800748,22018,Los Angeles Clippers,Atlanta Hawks,118,123,L,LAC vs. ATL,2019-01-28
+0021800749,22018,Cleveland Cavaliers,Washington Wizards,116,113,W,CLE vs. WAS,2019-01-29
+0021800750,22018,Detroit Pistons,Milwaukee Bucks,105,115,L,DET vs. MIL,2019-01-29
+0021800751,22018,Orlando Magic,Oklahoma City Thunder,117,126,L,ORL vs. OKC,2019-01-29
+0021800752,22018,Brooklyn Nets,Chicago Bulls,122,117,W,BKN vs. CHI,2019-01-29
+0021800753,22018,Houston Rockets,New Orleans Pelicans,116,121,L,HOU vs. NOP,2019-01-29
+0021800754,22018,San Antonio Spurs,Phoenix Suns,126,124,L,PHX @ SAS,2019-01-29
+0021800755,22018,Los Angeles Lakers,Philadelphia 76ers,105,121,L,LAL vs. PHI,2019-01-29
+0021800756,22018,Boston Celtics,Charlotte Hornets,126,94,W,BOS vs. CHA,2019-01-30
+0021800757,22018,Miami Heat,Chicago Bulls,89,105,L,MIA vs. CHI,2019-01-30
+0021800758,22018,New York Knicks,Dallas Mavericks,90,114,L,NYK vs. DAL,2019-01-30
+0021800759,22018,Washington Wizards,Indiana Pacers,107,89,W,WAS vs. IND,2019-01-30
+0021800760,22018,Minnesota Timberwolves,Memphis Grizzlies,99,97,W,MIN vs. MEM,2019-01-30
+0021800761,22018,New Orleans Pelicans,Denver Nuggets,99,105,L,NOP vs. DEN,2019-01-30
+0021800762,22018,Sacramento Kings,Atlanta Hawks,135,113,L,ATL @ SAC,2019-01-30
+0021800763,22018,Portland Trail Blazers,Utah Jazz,132,105,L,UTA @ POR,2019-01-30
+0021800764,22018,Detroit Pistons,Dallas Mavericks,93,89,W,DET vs. DAL,2019-01-31
+0021800765,22018,Orlando Magic,Indiana Pacers,107,100,L,IND @ ORL,2019-01-31
+0021800766,22018,Toronto Raptors,Milwaukee Bucks,92,105,L,TOR vs. MIL,2019-01-31
+0021800767,22018,San Antonio Spurs,Brooklyn Nets,117,114,L,BKN @ SAS,2019-01-31
+0021800768,22018,Golden State Warriors,Philadelphia 76ers,104,113,W,PHI @ GSW,2019-01-31
+0021800769,22018,Los Angeles Clippers,Los Angeles Lakers,120,123,L,LAC vs. LAL,2019-01-31
+0021800770,22018,Charlotte Hornets,Memphis Grizzlies,100,92,W,CHA vs. MEM,2019-02-01
+0021800771,22018,New York Knicks,Boston Celtics,99,113,W,BOS @ NYK,2019-02-01
+0021800772,22018,Miami Heat,Oklahoma City Thunder,102,118,L,MIA vs. OKC,2019-02-01
+0021800773,22018,Utah Jazz,Atlanta Hawks,128,112,W,UTA vs. ATL,2019-02-01
+0021800774,22018,Denver Nuggets,Houston Rockets,136,122,L,HOU @ DEN,2019-02-01
+0021800775,22018,Detroit Pistons,Los Angeles Clippers,101,111,L,DET vs. LAC,2019-02-02
+0021800776,22018,Charlotte Hornets,Chicago Bulls,125,118,W,CHA vs. CHI,2019-02-02
+0021800777,22018,Orlando Magic,Brooklyn Nets,102,89,L,BKN @ ORL,2019-02-02
+0021800778,22018,Washington Wizards,Milwaukee Bucks,115,131,L,WAS vs. MIL,2019-02-02
+0021800779,22018,San Antonio Spurs,New Orleans Pelicans,113,108,L,NOP @ SAS,2019-02-02
+0021800780,22018,Cleveland Cavaliers,Dallas Mavericks,98,111,L,CLE vs. DAL,2019-02-02
+0021800781,22018,Miami Heat,Indiana Pacers,88,95,L,MIA vs. IND,2019-02-02
+0021800782,22018,Golden State Warriors,Los Angeles Lakers,115,101,L,LAL @ GSW,2019-02-02
+0021800783,22018,Minnesota Timberwolves,Denver Nuggets,106,107,L,MIN vs. DEN,2019-02-02
+0021800784,22018,Phoenix Suns,Atlanta Hawks,112,118,L,PHX vs. ATL,2019-02-02
+0021800785,22018,Sacramento Kings,Philadelphia 76ers,115,108,W,SAC vs. PHI,2019-02-02
+0021800786,22018,Utah Jazz,Houston Rockets,98,125,W,HOU @ UTA,2019-02-02
+0021800787,22018,New York Knicks,Memphis Grizzlies,84,96,L,NYK vs. MEM,2019-02-03
+0021800788,22018,Boston Celtics,Oklahoma City Thunder,134,129,W,BOS vs. OKC,2019-02-03
+0021800789,22018,Toronto Raptors,Los Angeles Clippers,121,103,L,LAC @ TOR,2019-02-03
+0021800790,22018,Detroit Pistons,Denver Nuggets,129,103,W,DET vs. DEN,2019-02-04
+0021800791,22018,Washington Wizards,Atlanta Hawks,129,137,W,ATL @ WAS,2019-02-04
+0021800792,22018,Brooklyn Nets,Milwaukee Bucks,94,113,W,MIL @ BKN,2019-02-04
+0021800793,22018,New Orleans Pelicans,Indiana Pacers,107,109,L,NOP vs. IND,2019-02-04
+0021800794,22018,Phoenix Suns,Houston Rockets,110,118,W,HOU @ PHX,2019-02-04
+0021800795,22018,Sacramento Kings,San Antonio Spurs,127,112,W,SAC vs. SAS,2019-02-04
+0021800796,22018,Charlotte Hornets,Los Angeles Clippers,115,117,W,LAC @ CHA,2019-02-05
+0021800797,22018,Cleveland Cavaliers,Boston Celtics,96,103,W,BOS @ CLE,2019-02-05
+0021800798,22018,Indiana Pacers,Los Angeles Lakers,136,94,L,LAL @ IND,2019-02-05
+0021800799,22018,New York Knicks,Detroit Pistons,92,105,L,NYK vs. DET,2019-02-05
+0021800800,22018,Philadelphia 76ers,Toronto Raptors,107,119,L,PHI vs. TOR,2019-02-05
+0021800801,22018,Memphis Grizzlies,Minnesota Timberwolves,108,106,W,MEM vs. MIN,2019-02-05
+0021800802,22018,Oklahoma City Thunder,Orlando Magic,132,122,L,ORL @ OKC,2019-02-05
+0021800803,22018,Portland Trail Blazers,Miami Heat,108,118,W,MIA @ POR,2019-02-05
+0021800804,22018,Brooklyn Nets,Denver Nuggets,135,130,L,DEN @ BKN,2019-02-06
+0021800805,22018,Chicago Bulls,New Orleans Pelicans,120,125,W,NOP @ CHI,2019-02-06
+0021800806,22018,Milwaukee Bucks,Washington Wizards,148,129,W,MIL vs. WAS,2019-02-06
+0021800807,22018,Dallas Mavericks,Charlotte Hornets,99,93,L,CHA @ DAL,2019-02-06
+0021800808,22018,Utah Jazz,Phoenix Suns,116,88,L,PHX @ UTA,2019-02-06
+0021800809,22018,Sacramento Kings,Houston Rockets,101,127,W,HOU @ SAC,2019-02-06
+0021800810,22018,Golden State Warriors,San Antonio Spurs,141,102,L,SAS @ GSW,2019-02-06
+0021800811,22018,Indiana Pacers,Los Angeles Clippers,116,92,L,LAC @ IND,2019-02-07
+0021800812,22018,Orlando Magic,Minnesota Timberwolves,122,112,W,ORL vs. MIN,2019-02-07
+0021800813,22018,Atlanta Hawks,Toronto Raptors,101,119,W,TOR @ ATL,2019-02-07
+0021800814,22018,Boston Celtics,Los Angeles Lakers,128,129,W,LAL @ BOS,2019-02-07
+0021800815,22018,Oklahoma City Thunder,Memphis Grizzlies,117,95,W,OKC vs. MEM,2019-02-07
+0021800816,22018,Portland Trail Blazers,San Antonio Spurs,127,118,L,SAS @ POR,2019-02-07
+0021800817,22018,Detroit Pistons,New York Knicks,120,103,W,DET vs. NYK,2019-02-08
+0021800818,22018,Philadelphia 76ers,Denver Nuggets,117,110,W,PHI vs. DEN,2019-02-08
+0021800819,22018,Washington Wizards,Cleveland Cavaliers,119,106,L,CLE @ WAS,2019-02-08
+0021800820,22018,Brooklyn Nets,Chicago Bulls,106,125,W,CHI @ BKN,2019-02-08
+0021800821,22018,Dallas Mavericks,Milwaukee Bucks,107,122,L,DAL vs. MIL,2019-02-08
+0021800822,22018,Phoenix Suns,Golden State Warriors,107,117,W,GSW @ PHX,2019-02-08
+0021800823,22018,New Orleans Pelicans,Minnesota Timberwolves,122,117,L,MIN @ NOP,2019-02-08
+0021800824,22018,Sacramento Kings,Miami Heat,102,96,L,MIA @ SAC,2019-02-08
+0021800825,22018,Utah Jazz,San Antonio Spurs,125,105,W,UTA vs. SAS,2019-02-09
+0021800826,22018,Indiana Pacers,Cleveland Cavaliers,105,90,W,IND vs. CLE,2019-02-09
+0021800827,22018,Atlanta Hawks,Charlotte Hornets,120,129,W,CHA @ ATL,2019-02-09
+0021800828,22018,New York Knicks,Toronto Raptors,99,104,W,TOR @ NYK,2019-02-09
+0021800829,22018,Boston Celtics,Los Angeles Clippers,112,123,W,LAC @ BOS,2019-02-09
+0021800830,22018,Chicago Bulls,Washington Wizards,125,134,L,CHI vs. WAS,2019-02-09
+0021800831,22018,Memphis Grizzlies,New Orleans Pelicans,99,90,W,MEM vs. NOP,2019-02-09
+0021800832,22018,Houston Rockets,Oklahoma City Thunder,112,117,W,OKC @ HOU,2019-02-09
+0021800833,22018,Milwaukee Bucks,Orlando Magic,83,103,L,MIL vs. ORL,2019-02-09
+0021800834,22018,Dallas Mavericks,Portland Trail Blazers,102,101,L,POR @ DAL,2019-02-10
+0021800835,22018,Philadelphia 76ers,Los Angeles Lakers,143,120,L,LAL @ PHI,2019-02-10
+0021800836,22018,Sacramento Kings,Phoenix Suns,117,104,W,SAC vs. PHX,2019-02-10
+0021800837,22018,Atlanta Hawks,Orlando Magic,108,124,L,ATL vs. ORL,2019-02-10
+0021800838,22018,Golden State Warriors,Miami Heat,120,118,L,MIA @ GSW,2019-02-10
+0021800839,22018,Cleveland Cavaliers,New York Knicks,107,104,W,CLE vs. NYK,2019-02-11
+0021800840,22018,Detroit Pistons,Washington Wizards,121,112,L,WAS @ DET,2019-02-11
+0021800841,22018,Indiana Pacers,Charlotte Hornets,99,90,L,CHA @ IND,2019-02-11
+0021800842,22018,Toronto Raptors,Brooklyn Nets,127,125,L,BKN @ TOR,2019-02-11
+0021800843,22018,Chicago Bulls,Milwaukee Bucks,99,112,L,CHI vs. MIL,2019-02-11
+0021800844,22018,Houston Rockets,Dallas Mavericks,120,104,L,DAL @ HOU,2019-02-11
+0021800845,22018,Minnesota Timberwolves,Los Angeles Clippers,130,120,W,MIN vs. LAC,2019-02-11
+0021800846,22018,Oklahoma City Thunder,Portland Trail Blazers,120,111,W,OKC vs. POR,2019-02-11
+0021800847,22018,Denver Nuggets,Miami Heat,103,87,L,MIA @ DEN,2019-02-11
+0021800848,22018,Atlanta Hawks,Los Angeles Lakers,117,113,W,ATL vs. LAL,2019-02-12
+0021800849,22018,Philadelphia 76ers,Boston Celtics,109,112,L,PHI vs. BOS,2019-02-12
+0021800850,22018,Memphis Grizzlies,San Antonio Spurs,107,108,L,MEM vs. SAS,2019-02-12
+0021800851,22018,New Orleans Pelicans,Orlando Magic,88,118,L,NOP vs. ORL,2019-02-12
+0021800852,22018,Golden State Warriors,Utah Jazz,115,108,W,GSW vs. UTA,2019-02-12
+0021800853,22018,Cleveland Cavaliers,Brooklyn Nets,139,148,W,BKN @ CLE,2019-02-13
+0021800854,22018,Indiana Pacers,Milwaukee Bucks,97,106,W,MIL @ IND,2019-02-13
+0021800855,22018,Boston Celtics,Detroit Pistons,118,110,L,DET @ BOS,2019-02-13
+0021800856,22018,New York Knicks,Philadelphia 76ers,111,126,W,PHI @ NYK,2019-02-13
+0021800857,22018,Toronto Raptors,Washington Wizards,129,120,L,WAS @ TOR,2019-02-13
+0021800858,22018,Chicago Bulls,Memphis Grizzlies,122,110,L,MEM @ CHI,2019-02-13
+0021800859,22018,Dallas Mavericks,Miami Heat,101,112,W,MIA @ DAL,2019-02-13
+0021800860,22018,Denver Nuggets,Sacramento Kings,120,118,W,DEN vs. SAC,2019-02-13
+0021800861,22018,Minnesota Timberwolves,Houston Rockets,121,111,L,HOU @ MIN,2019-02-13
+0021800862,22018,Portland Trail Blazers,Golden State Warriors,129,107,L,GSW @ POR,2019-02-13
+0021800863,22018,Los Angeles Clippers,Phoenix Suns,134,107,L,PHX @ LAC,2019-02-13
+0021800864,22018,Orlando Magic,Charlotte Hornets,127,89,W,ORL vs. CHA,2019-02-14
+0021800865,22018,Atlanta Hawks,New York Knicks,91,106,W,NYK @ ATL,2019-02-14
+0021800866,22018,New Orleans Pelicans,Oklahoma City Thunder,131,122,W,NOP vs. OKC,2019-02-14
+0021800867,22018,Cleveland Cavaliers,Phoenix Suns,111,98,L,PHX @ CLE,2019-02-21
+0021800868,22018,Philadelphia 76ers,Miami Heat,106,102,W,PHI vs. MIA,2019-02-21
+0021800869,22018,Brooklyn Nets,Portland Trail Blazers,99,113,W,POR @ BKN,2019-02-21
+0021800870,22018,Milwaukee Bucks,Boston Celtics,98,97,W,MIL vs. BOS,2019-02-21
+0021800871,22018,Golden State Warriors,Sacramento Kings,125,123,L,SAC @ GSW,2019-02-21
+0021800872,22018,Los Angeles Lakers,Houston Rockets,111,106,W,LAL vs. HOU,2019-02-21
+0021800873,22018,Charlotte Hornets,Washington Wizards,123,110,W,CHA vs. WAS,2019-02-22
+0021800874,22018,Indiana Pacers,New Orleans Pelicans,126,111,L,NOP @ IND,2019-02-22
+0021800875,22018,Orlando Magic,Chicago Bulls,109,110,W,CHI @ ORL,2019-02-22
+0021800876,22018,Toronto Raptors,San Antonio Spurs,120,117,W,TOR vs. SAS,2019-02-22
+0021800877,22018,Atlanta Hawks,Detroit Pistons,122,125,L,ATL vs. DET,2019-02-22
+0021800878,22018,New York Knicks,Minnesota Timberwolves,104,115,W,MIN @ NYK,2019-02-22
+0021800879,22018,Memphis Grizzlies,Los Angeles Clippers,106,112,L,MEM vs. LAC,2019-02-22
+0021800880,22018,Dallas Mavericks,Denver Nuggets,104,114,L,DAL vs. DEN,2019-02-22
+0021800881,22018,Oklahoma City Thunder,Utah Jazz,148,147,W,OKC vs. UTA,2019-02-22
+0021800882,22018,Philadelphia 76ers,Portland Trail Blazers,115,130,L,PHI vs. POR,2019-02-23
+0021800883,22018,Atlanta Hawks,Phoenix Suns,120,112,W,ATL vs. PHX,2019-02-23
+0021800884,22018,Charlotte Hornets,Brooklyn Nets,115,117,W,BKN @ CHA,2019-02-23
+0021800885,22018,Cleveland Cavaliers,Memphis Grizzlies,112,107,W,CLE vs. MEM,2019-02-23
+0021800886,22018,Washington Wizards,Indiana Pacers,112,119,L,WAS vs. IND,2019-02-23
+0021800887,22018,New Orleans Pelicans,Los Angeles Lakers,128,115,L,LAL @ NOP,2019-02-23
+0021800888,22018,Miami Heat,Detroit Pistons,96,119,L,MIA vs. DET,2019-02-23
+0021800889,22018,Chicago Bulls,Boston Celtics,126,116,W,CHI vs. BOS,2019-02-23
+0021800890,22018,Oklahoma City Thunder,Sacramento Kings,116,119,L,OKC vs. SAC,2019-02-23
+0021800891,22018,Milwaukee Bucks,Minnesota Timberwolves,140,128,L,MIN @ MIL,2019-02-23
+0021800892,22018,Golden State Warriors,Houston Rockets,112,118,W,HOU @ GSW,2019-02-23
+0021800893,22018,Utah Jazz,Dallas Mavericks,125,109,L,DAL @ UTA,2019-02-23
+0021800894,22018,Toronto Raptors,Orlando Magic,98,113,L,TOR vs. ORL,2019-02-24
+0021800895,22018,Denver Nuggets,Los Angeles Clippers,123,96,W,DEN vs. LAC,2019-02-24
+0021800896,22018,New York Knicks,San Antonio Spurs,130,118,L,SAS @ NYK,2019-02-24
+0021800897,22018,Charlotte Hornets,Golden State Warriors,110,121,L,CHA vs. GSW,2019-02-25
+0021800898,22018,Cleveland Cavaliers,Portland Trail Blazers,110,123,W,POR @ CLE,2019-02-25
+0021800899,22018,Detroit Pistons,Indiana Pacers,113,109,W,DET vs. IND,2019-02-25
+0021800900,22018,Brooklyn Nets,San Antonio Spurs,101,85,L,SAS @ BKN,2019-02-25
+0021800901,22018,Miami Heat,Phoenix Suns,121,124,L,MIA vs. PHX,2019-02-25
+0021800902,22018,Chicago Bulls,Milwaukee Bucks,106,117,W,MIL @ CHI,2019-02-25
+0021800903,22018,Houston Rockets,Atlanta Hawks,119,111,W,HOU vs. ATL,2019-02-25
+0021800904,22018,Memphis Grizzlies,Los Angeles Lakers,110,105,W,MEM vs. LAL,2019-02-25
+0021800905,22018,Minnesota Timberwolves,Sacramento Kings,112,105,W,MIN vs. SAC,2019-02-25
+0021800906,22018,New Orleans Pelicans,Philadelphia 76ers,110,111,L,NOP vs. PHI,2019-02-25
+0021800907,22018,Los Angeles Clippers,Dallas Mavericks,121,112,W,LAC vs. DAL,2019-02-25
+0021800908,22018,New York Knicks,Orlando Magic,108,103,L,ORL @ NYK,2019-02-26
+0021800909,22018,Toronto Raptors,Boston Celtics,118,95,L,BOS @ TOR,2019-02-26
+0021800910,22018,Denver Nuggets,Oklahoma City Thunder,121,112,L,OKC @ DEN,2019-02-26
+0021800911,22018,Charlotte Hornets,Houston Rockets,113,118,L,CHA vs. HOU,2019-02-27
+0021800912,22018,Atlanta Hawks,Minnesota Timberwolves,131,123,L,MIN @ ATL,2019-02-27
+0021800913,22018,Boston Celtics,Portland Trail Blazers,92,97,W,POR @ BOS,2019-02-27
+0021800914,22018,Brooklyn Nets,Washington Wizards,116,125,W,WAS @ BKN,2019-02-27
+0021800915,22018,Miami Heat,Golden State Warriors,126,125,L,GSW @ MIA,2019-02-27
+0021800916,22018,Memphis Grizzlies,Chicago Bulls,107,109,L,MEM vs. CHI,2019-02-27
+0021800917,22018,San Antonio Spurs,Detroit Pistons,105,93,L,DET @ SAS,2019-02-27
+0021800918,22018,Dallas Mavericks,Indiana Pacers,110,101,W,DAL vs. IND,2019-02-27
+0021800919,22018,Utah Jazz,Los Angeles Clippers,111,105,W,UTA vs. LAC,2019-02-27
+0021800920,22018,Sacramento Kings,Milwaukee Bucks,140,141,W,MIL @ SAC,2019-02-27
+0021800921,22018,Los Angeles Lakers,New Orleans Pelicans,125,119,L,NOP @ LAL,2019-02-27
+0021800922,22018,Indiana Pacers,Minnesota Timberwolves,122,115,L,MIN @ IND,2019-02-28
+0021800923,22018,Orlando Magic,Golden State Warriors,103,96,L,GSW @ ORL,2019-02-28
+0021800924,22018,New York Knicks,Cleveland Cavaliers,118,125,L,NYK vs. CLE,2019-02-28
+0021800925,22018,Houston Rockets,Miami Heat,121,118,W,HOU vs. MIA,2019-02-28
+0021800926,22018,Denver Nuggets,Utah Jazz,104,111,L,DEN vs. UTA,2019-02-28
+0021800927,22018,Oklahoma City Thunder,Philadelphia 76ers,104,108,L,OKC vs. PHI,2019-02-28
+0021800928,22018,Atlanta Hawks,Chicago Bulls,161,168,W,CHI @ ATL,2019-03-01
+0021800929,22018,Brooklyn Nets,Charlotte Hornets,112,123,L,BKN vs. CHA,2019-03-01
+0021800930,22018,Toronto Raptors,Portland Trail Blazers,119,117,L,POR @ TOR,2019-03-01
+0021800931,22018,Boston Celtics,Washington Wizards,107,96,W,BOS vs. WAS,2019-03-01
+0021800932,22018,Phoenix Suns,New Orleans Pelicans,116,130,W,NOP @ PHX,2019-03-01
+0021800933,22018,Sacramento Kings,Los Angeles Clippers,109,116,L,SAC vs. LAC,2019-03-01
+0021800934,22018,Los Angeles Lakers,Milwaukee Bucks,120,131,L,LAL vs. MIL,2019-03-01
+0021800935,22018,Cleveland Cavaliers,Detroit Pistons,93,129,L,CLE vs. DET,2019-03-02
+0021800936,22018,Indiana Pacers,Orlando Magic,112,117,W,ORL @ IND,2019-03-02
+0021800937,22018,Miami Heat,Brooklyn Nets,117,88,L,BKN @ MIA,2019-03-02
+0021800938,22018,Philadelphia 76ers,Golden State Warriors,117,120,W,GSW @ PHI,2019-03-02
+0021800939,22018,Dallas Mavericks,Memphis Grizzlies,81,111,W,MEM @ DAL,2019-03-02
+0021800940,22018,San Antonio Spurs,Oklahoma City Thunder,116,102,L,OKC @ SAS,2019-03-02
+0021800941,22018,Denver Nuggets,New Orleans Pelicans,112,120,L,DEN vs. NOP,2019-03-02
+0021800942,22018,Phoenix Suns,Los Angeles Lakers,118,109,L,LAL @ PHX,2019-03-02
+0021800943,22018,Utah Jazz,Milwaukee Bucks,115,111,L,MIL @ UTA,2019-03-02
+0021800944,22018,Charlotte Hornets,Portland Trail Blazers,108,118,L,CHA vs. POR,2019-03-03
+0021800945,22018,Boston Celtics,Houston Rockets,104,115,L,BOS vs. HOU,2019-03-03
+0021800946,22018,Chicago Bulls,Atlanta Hawks,118,123,L,CHI vs. ATL,2019-03-03
+0021800947,22018,Los Angeles Clippers,New York Knicks,128,107,W,LAC vs. NYK,2019-03-03
+0021800948,22018,Cleveland Cavaliers,Orlando Magic,107,93,W,CLE vs. ORL,2019-03-03
+0021800949,22018,Detroit Pistons,Toronto Raptors,112,107,L,TOR @ DET,2019-03-03
+0021800950,22018,Washington Wizards,Minnesota Timberwolves,135,121,L,MIN @ WAS,2019-03-03
+0021800951,22018,Oklahoma City Thunder,Memphis Grizzlies,99,95,W,OKC vs. MEM,2019-03-03
+0021800952,22018,Brooklyn Nets,Dallas Mavericks,127,88,W,BKN vs. DAL,2019-03-04
+0021800953,22018,Miami Heat,Atlanta Hawks,114,113,L,ATL @ MIA,2019-03-04
+0021800954,22018,San Antonio Spurs,Denver Nuggets,104,103,W,SAS vs. DEN,2019-03-04
+0021800955,22018,Phoenix Suns,Milwaukee Bucks,114,105,L,MIL @ PHX,2019-03-04
+0021800956,22018,Utah Jazz,New Orleans Pelicans,112,115,L,UTA vs. NOP,2019-03-04
+0021800957,22018,Sacramento Kings,New York Knicks,115,108,L,NYK @ SAC,2019-03-04
+0021800958,22018,Los Angeles Lakers,Los Angeles Clippers,105,113,W,LAC @ LAL,2019-03-04
+0021800959,22018,Indiana Pacers,Chicago Bulls,105,96,L,CHI @ IND,2019-03-05
+0021800960,22018,Philadelphia 76ers,Orlando Magic,114,106,L,ORL @ PHI,2019-03-05
+0021800961,22018,Toronto Raptors,Houston Rockets,95,107,W,HOU @ TOR,2019-03-05
+0021800962,22018,Memphis Grizzlies,Portland Trail Blazers,120,111,L,POR @ MEM,2019-03-05
+0021800963,22018,Minnesota Timberwolves,Oklahoma City Thunder,131,120,W,MIN vs. OKC,2019-03-05
+0021800964,22018,Golden State Warriors,Boston Celtics,95,128,L,GSW vs. BOS,2019-03-05
+0021800965,22018,Charlotte Hornets,Miami Heat,84,91,L,CHA vs. MIA,2019-03-06
+0021800966,22018,Detroit Pistons,Minnesota Timberwolves,131,114,W,DET vs. MIN,2019-03-06
+0021800967,22018,Washington Wizards,Dallas Mavericks,132,123,L,DAL @ WAS,2019-03-06
+0021800968,22018,Atlanta Hawks,San Antonio Spurs,104,111,W,SAS @ ATL,2019-03-06
+0021800969,22018,Brooklyn Nets,Cleveland Cavaliers,113,107,L,CLE @ BKN,2019-03-06
+0021800970,22018,Chicago Bulls,Philadelphia 76ers,108,107,W,CHI vs. PHI,2019-03-06
+0021800971,22018,New Orleans Pelicans,Utah Jazz,104,114,L,NOP vs. UTA,2019-03-06
+0021800972,22018,Phoenix Suns,New York Knicks,107,96,W,PHX vs. NYK,2019-03-06
+0021800973,22018,Sacramento Kings,Boston Celtics,109,111,W,BOS @ SAC,2019-03-06
+0021800974,22018,Los Angeles Lakers,Denver Nuggets,99,115,W,DEN @ LAL,2019-03-06
+0021800975,22018,Milwaukee Bucks,Indiana Pacers,117,98,L,IND @ MIL,2019-03-07
+0021800976,22018,Portland Trail Blazers,Oklahoma City Thunder,121,129,W,OKC @ POR,2019-03-07
+0021800977,22018,Charlotte Hornets,Washington Wizards,112,111,W,CHA vs. WAS,2019-03-08
+0021800978,22018,Orlando Magic,Dallas Mavericks,111,106,W,ORL vs. DAL,2019-03-08
+0021800979,22018,Miami Heat,Cleveland Cavaliers,126,110,L,CLE @ MIA,2019-03-08
+0021800980,22018,Chicago Bulls,Detroit Pistons,104,112,W,DET @ CHI,2019-03-08
+0021800981,22018,Houston Rockets,Philadelphia 76ers,107,91,L,PHI @ HOU,2019-03-08
+0021800982,22018,Memphis Grizzlies,Utah Jazz,114,104,W,MEM vs. UTA,2019-03-08
+0021800983,22018,New Orleans Pelicans,Toronto Raptors,104,127,L,NOP vs. TOR,2019-03-08
+0021800984,22018,Golden State Warriors,Denver Nuggets,122,105,W,GSW vs. DEN,2019-03-08
+0021800985,22018,Los Angeles Clippers,Oklahoma City Thunder,118,110,L,OKC @ LAC,2019-03-08
+0021800986,22018,New York Knicks,Sacramento Kings,94,102,W,SAC @ NYK,2019-03-09
+0021800987,22018,Atlanta Hawks,Brooklyn Nets,112,114,L,ATL vs. BKN,2019-03-09
+0021800988,22018,Minnesota Timberwolves,Washington Wizards,135,130,W,MIN vs. WAS,2019-03-09
+0021800989,22018,Los Angeles Lakers,Boston Celtics,107,120,W,BOS @ LAL,2019-03-09
+0021800990,22018,Milwaukee Bucks,Charlotte Hornets,131,114,L,CHA @ MIL,2019-03-09
+0021800991,22018,Portland Trail Blazers,Phoenix Suns,127,120,L,PHX @ POR,2019-03-09
+0021800992,22018,Detroit Pistons,Chicago Bulls,131,108,L,CHI @ DET,2019-03-10
+0021800993,22018,Miami Heat,Toronto Raptors,104,125,W,TOR @ MIA,2019-03-10
+0021800994,22018,Philadelphia 76ers,Indiana Pacers,106,89,W,PHI vs. IND,2019-03-10
+0021800995,22018,Atlanta Hawks,New Orleans Pelicans,128,116,L,NOP @ ATL,2019-03-10
+0021800996,22018,Memphis Grizzlies,Orlando Magic,105,97,W,MEM vs. ORL,2019-03-10
+0021800997,22018,Dallas Mavericks,Houston Rockets,93,94,W,HOU @ DAL,2019-03-10
+0021800998,22018,Minnesota Timberwolves,New York Knicks,103,92,W,MIN vs. NYK,2019-03-10
+0021800999,22018,San Antonio Spurs,Milwaukee Bucks,121,114,W,SAS vs. MIL,2019-03-10
+0021801000,22018,Golden State Warriors,Phoenix Suns,111,115,W,PHX @ GSW,2019-03-10
+0021801001,22018,Cleveland Cavaliers,Toronto Raptors,126,101,W,CLE vs. TOR,2019-03-11
+0021801002,22018,Washington Wizards,Sacramento Kings,121,115,L,SAC @ WAS,2019-03-11
+0021801003,22018,Brooklyn Nets,Detroit Pistons,103,75,W,BKN vs. DET,2019-03-11
+0021801004,22018,Houston Rockets,Charlotte Hornets,118,106,L,CHA @ HOU,2019-03-11
+0021801005,22018,Utah Jazz,Oklahoma City Thunder,89,98,W,OKC @ UTA,2019-03-11
+0021801006,22018,Los Angeles Clippers,Boston Celtics,140,115,W,LAC vs. BOS,2019-03-11
+0021801007,22018,Indiana Pacers,New York Knicks,103,98,L,NYK @ IND,2019-03-12
+0021801008,22018,Philadelphia 76ers,Cleveland Cavaliers,106,99,W,PHI vs. CLE,2019-03-12
+0021801009,22018,Chicago Bulls,Los Angeles Lakers,107,123,L,CHI vs. LAL,2019-03-12
+0021801010,22018,New Orleans Pelicans,Milwaukee Bucks,113,130,L,NOP vs. MIL,2019-03-12
+0021801011,22018,Dallas Mavericks,San Antonio Spurs,105,112,L,DAL vs. SAS,2019-03-12
+0021801012,22018,Denver Nuggets,Minnesota Timberwolves,133,107,W,DEN vs. MIN,2019-03-12
+0021801013,22018,Los Angeles Clippers,Portland Trail Blazers,104,125,W,POR @ LAC,2019-03-12
+0021801014,22018,Miami Heat,Detroit Pistons,108,74,W,MIA vs. DET,2019-03-13
+0021801015,22018,Washington Wizards,Orlando Magic,100,90,W,WAS vs. ORL,2019-03-13
+0021801016,22018,Atlanta Hawks,Memphis Grizzlies,132,111,L,MEM @ ATL,2019-03-13
+0021801017,22018,Oklahoma City Thunder,Brooklyn Nets,108,96,L,BKN @ OKC,2019-03-13
+0021801018,22018,Houston Rockets,Golden State Warriors,104,106,W,GSW @ HOU,2019-03-13
+0021801019,22018,Phoenix Suns,Utah Jazz,97,114,L,PHX vs. UTA,2019-03-13
+0021801020,22018,Indiana Pacers,Oklahoma City Thunder,108,106,W,IND vs. OKC,2019-03-14
+0021801021,22018,Orlando Magic,Cleveland Cavaliers,120,91,W,ORL vs. CLE,2019-03-14
+0021801022,22018,Boston Celtics,Sacramento Kings,126,120,W,BOS vs. SAC,2019-03-14
+0021801023,22018,Toronto Raptors,Los Angeles Lakers,111,98,W,TOR vs. LAL,2019-03-14
+0021801024,22018,Utah Jazz,Minnesota Timberwolves,120,100,W,UTA vs. MIN,2019-03-14
+0021801025,22018,Denver Nuggets,Dallas Mavericks,100,99,L,DAL @ DEN,2019-03-14
+0021801026,22018,Detroit Pistons,Los Angeles Lakers,111,97,W,DET vs. LAL,2019-03-15
+0021801027,22018,Philadelphia 76ers,Sacramento Kings,123,114,W,PHI vs. SAC,2019-03-15
+0021801028,22018,Washington Wizards,Charlotte Hornets,110,116,L,WAS vs. CHA,2019-03-15
+0021801029,22018,Miami Heat,Milwaukee Bucks,98,113,L,MIA vs. MIL,2019-03-15
+0021801030,22018,Houston Rockets,Phoenix Suns,108,102,W,HOU vs. PHX,2019-03-15
+0021801031,22018,New Orleans Pelicans,Portland Trail Blazers,110,122,W,POR @ NOP,2019-03-15
+0021801032,22018,San Antonio Spurs,New York Knicks,109,83,W,SAS vs. NYK,2019-03-15
+0021801033,22018,Los Angeles Clippers,Chicago Bulls,128,121,W,LAC vs. CHI,2019-03-15
+0021801034,22018,Boston Celtics,Atlanta Hawks,129,120,L,ATL @ BOS,2019-03-16
+0021801035,22018,Washington Wizards,Memphis Grizzlies,135,128,W,WAS vs. MEM,2019-03-16
+0021801036,22018,New Orleans Pelicans,Phoenix Suns,136,138,L,NOP vs. PHX,2019-03-16
+0021801037,22018,Dallas Mavericks,Cleveland Cavaliers,121,116,W,DAL vs. CLE,2019-03-16
+0021801038,22018,Oklahoma City Thunder,Golden State Warriors,88,110,L,OKC vs. GSW,2019-03-16
+0021801039,22018,San Antonio Spurs,Portland Trail Blazers,108,103,W,SAS vs. POR,2019-03-16
+0021801040,22018,Denver Nuggets,Indiana Pacers,102,100,W,DEN vs. IND,2019-03-16
+0021801041,22018,Utah Jazz,Brooklyn Nets,114,98,W,UTA vs. BKN,2019-03-16
+0021801042,22018,New York Knicks,Los Angeles Lakers,124,123,L,LAL @ NYK,2019-03-17
+0021801043,22018,Milwaukee Bucks,Philadelphia 76ers,125,130,W,PHI @ MIL,2019-03-17
+0021801044,22018,Detroit Pistons,Toronto Raptors,110,107,L,TOR @ DET,2019-03-17
+0021801045,22018,Miami Heat,Charlotte Hornets,93,75,L,CHA @ MIA,2019-03-17
+0021801046,22018,Orlando Magic,Atlanta Hawks,101,91,W,ORL vs. ATL,2019-03-17
+0021801047,22018,Sacramento Kings,Chicago Bulls,129,102,W,SAC vs. CHI,2019-03-17
+0021801048,22018,Houston Rockets,Minnesota Timberwolves,117,102,L,MIN @ HOU,2019-03-17
+0021801049,22018,Los Angeles Clippers,Brooklyn Nets,119,116,W,LAC vs. BKN,2019-03-17
+0021801050,22018,Cleveland Cavaliers,Detroit Pistons,126,119,L,DET @ CLE,2019-03-18
+0021801051,22018,Washington Wizards,Utah Jazz,95,116,W,UTA @ WAS,2019-03-18
+0021801052,22018,Boston Celtics,Denver Nuggets,105,114,W,DEN @ BOS,2019-03-18
+0021801053,22018,Toronto Raptors,New York Knicks,128,92,L,NYK @ TOR,2019-03-18
+0021801054,22018,Oklahoma City Thunder,Miami Heat,107,116,W,MIA @ OKC,2019-03-18
+0021801055,22018,San Antonio Spurs,Golden State Warriors,111,105,L,GSW @ SAS,2019-03-18
+0021801056,22018,Dallas Mavericks,New Orleans Pelicans,125,129,L,DAL vs. NOP,2019-03-18
+0021801057,22018,Phoenix Suns,Chicago Bulls,101,116,L,PHX vs. CHI,2019-03-18
+0021801058,22018,Portland Trail Blazers,Indiana Pacers,106,98,W,POR vs. IND,2019-03-18
+0021801059,22018,Charlotte Hornets,Philadelphia 76ers,114,118,W,PHI @ CHA,2019-03-19
+0021801060,22018,Atlanta Hawks,Houston Rockets,105,121,W,HOU @ ATL,2019-03-19
+0021801061,22018,Milwaukee Bucks,Los Angeles Lakers,115,101,W,MIL vs. LAL,2019-03-19
+0021801062,22018,Minnesota Timberwolves,Golden State Warriors,107,117,L,MIN vs. GSW,2019-03-19
+0021801063,22018,Sacramento Kings,Brooklyn Nets,121,123,W,BKN @ SAC,2019-03-19
+0021801064,22018,Los Angeles Clippers,Indiana Pacers,115,109,W,LAC vs. IND,2019-03-19
+0021801065,22018,Cleveland Cavaliers,Milwaukee Bucks,107,102,L,MIL @ CLE,2019-03-20
+0021801066,22018,Orlando Magic,New Orleans Pelicans,119,96,W,ORL vs. NOP,2019-03-20
+0021801067,22018,Philadelphia 76ers,Boston Celtics,118,115,L,BOS @ PHI,2019-03-20
+0021801068,22018,New York Knicks,Utah Jazz,116,137,L,NYK vs. UTA,2019-03-20
+0021801069,22018,Chicago Bulls,Washington Wizards,126,120,L,WAS @ CHI,2019-03-20
+0021801070,22018,Memphis Grizzlies,Houston Rockets,126,125,L,HOU @ MEM,2019-03-20
+0021801071,22018,San Antonio Spurs,Miami Heat,105,110,W,MIA @ SAS,2019-03-20
+0021801072,22018,Oklahoma City Thunder,Toronto Raptors,114,123,W,TOR @ OKC,2019-03-20
+0021801073,22018,Portland Trail Blazers,Dallas Mavericks,126,118,L,DAL @ POR,2019-03-20
+0021801074,22018,Charlotte Hornets,Minnesota Timberwolves,113,106,W,CHA vs. MIN,2019-03-21
+0021801075,22018,Washington Wizards,Denver Nuggets,108,113,L,WAS vs. DEN,2019-03-21
+0021801076,22018,Atlanta Hawks,Utah Jazz,117,114,L,UTA @ ATL,2019-03-21
+0021801077,22018,Phoenix Suns,Detroit Pistons,98,118,W,DET @ PHX,2019-03-21
+0021801078,22018,Sacramento Kings,Dallas Mavericks,116,100,L,DAL @ SAC,2019-03-21
+0021801079,22018,Golden State Warriors,Indiana Pacers,112,89,W,GSW vs. IND,2019-03-21
+0021801080,22018,Orlando Magic,Memphis Grizzlies,123,119,W,ORL vs. MEM,2019-03-22
+0021801081,22018,Cleveland Cavaliers,Los Angeles Clippers,108,110,L,CLE vs. LAC,2019-03-22
+0021801082,22018,New York Knicks,Denver Nuggets,93,111,L,NYK vs. DEN,2019-03-22
+0021801083,22018,Toronto Raptors,Oklahoma City Thunder,109,116,W,OKC @ TOR,2019-03-22
+0021801084,22018,Houston Rockets,San Antonio Spurs,111,105,W,HOU vs. SAS,2019-03-22
+0021801085,22018,Milwaukee Bucks,Miami Heat,116,87,W,MIL vs. MIA,2019-03-22
+0021801086,22018,Los Angeles Lakers,Brooklyn Nets,106,111,W,BKN @ LAL,2019-03-22
+0021801087,22018,Charlotte Hornets,Boston Celtics,124,117,L,BOS @ CHA,2019-03-23
+0021801088,22018,Atlanta Hawks,Philadelphia 76ers,129,127,W,ATL vs. PHI,2019-03-23
+0021801089,22018,Washington Wizards,Miami Heat,108,113,L,WAS vs. MIA,2019-03-23
+0021801090,22018,Chicago Bulls,Utah Jazz,83,114,L,CHI vs. UTA,2019-03-23
+0021801091,22018,Memphis Grizzlies,Minnesota Timberwolves,99,112,W,MIN @ MEM,2019-03-23
+0021801092,22018,Golden State Warriors,Dallas Mavericks,91,126,L,GSW vs. DAL,2019-03-23
+0021801093,22018,Portland Trail Blazers,Detroit Pistons,117,112,W,POR vs. DET,2019-03-23
+0021801094,22018,Sacramento Kings,Phoenix Suns,112,103,W,SAC vs. PHX,2019-03-23
+0021801095,22018,New York Knicks,Los Angeles Clippers,113,124,L,NYK vs. LAC,2019-03-24
+0021801096,22018,Milwaukee Bucks,Cleveland Cavaliers,127,105,L,CLE @ MIL,2019-03-24
+0021801097,22018,Indiana Pacers,Denver Nuggets,124,88,W,IND vs. DEN,2019-03-24
+0021801098,22018,Toronto Raptors,Charlotte Hornets,114,115,L,TOR vs. CHA,2019-03-24
+0021801099,22018,New Orleans Pelicans,Houston Rockets,90,113,L,NOP vs. HOU,2019-03-24
+0021801100,22018,Boston Celtics,San Antonio Spurs,96,115,W,SAS @ BOS,2019-03-24
+0021801101,22018,Golden State Warriors,Detroit Pistons,121,114,W,GSW vs. DET,2019-03-24
+0021801102,22018,Los Angeles Lakers,Sacramento Kings,111,106,W,LAL vs. SAC,2019-03-24
+0021801103,22018,Orlando Magic,Philadelphia 76ers,119,98,L,PHI @ ORL,2019-03-25
+0021801104,22018,Memphis Grizzlies,Oklahoma City Thunder,115,103,L,OKC @ MEM,2019-03-25
+0021801105,22018,Utah Jazz,Phoenix Suns,125,92,W,UTA vs. PHX,2019-03-25
+0021801106,22018,Portland Trail Blazers,Brooklyn Nets,148,144,L,BKN @ POR,2019-03-25
+0021801107,22018,Charlotte Hornets,San Antonio Spurs,125,116,W,CHA vs. SAS,2019-03-26
+0021801108,22018,Cleveland Cavaliers,Boston Celtics,106,116,W,BOS @ CLE,2019-03-26
+0021801109,22018,Miami Heat,Orlando Magic,99,104,W,ORL @ MIA,2019-03-26
+0021801110,22018,Toronto Raptors,Chicago Bulls,112,103,L,CHI @ TOR,2019-03-26
+0021801111,22018,Milwaukee Bucks,Houston Rockets,108,94,L,HOU @ MIL,2019-03-26
+0021801112,22018,Minnesota Timberwolves,Los Angeles Clippers,111,122,L,MIN vs. LAC,2019-03-26
+0021801113,22018,New Orleans Pelicans,Atlanta Hawks,120,130,W,ATL @ NOP,2019-03-26
+0021801114,22018,Dallas Mavericks,Sacramento Kings,121,125,W,SAC @ DAL,2019-03-26
+0021801115,22018,Denver Nuggets,Detroit Pistons,95,92,W,DEN vs. DET,2019-03-26
+0021801116,22018,Los Angeles Lakers,Washington Wizards,124,106,W,LAL vs. WAS,2019-03-26
+0021801117,22018,Chicago Bulls,Portland Trail Blazers,98,118,W,POR @ CHI,2019-03-27
+0021801118,22018,Memphis Grizzlies,Golden State Warriors,103,118,L,MEM vs. GSW,2019-03-27
+0021801119,22018,Oklahoma City Thunder,Indiana Pacers,107,99,L,IND @ OKC,2019-03-27
+0021801120,22018,Phoenix Suns,Washington Wizards,121,124,W,WAS @ PHX,2019-03-27
+0021801121,22018,Utah Jazz,Los Angeles Lakers,115,100,L,LAL @ UTA,2019-03-27
+0021801122,22018,Detroit Pistons,Orlando Magic,115,98,W,DET vs. ORL,2019-03-28
+0021801123,22018,Philadelphia 76ers,Brooklyn Nets,123,110,W,PHI vs. BKN,2019-03-28
+0021801124,22018,Miami Heat,Dallas Mavericks,105,99,W,MIA vs. DAL,2019-03-28
+0021801125,22018,New York Knicks,Toronto Raptors,92,117,L,NYK vs. TOR,2019-03-28
+0021801126,22018,Houston Rockets,Denver Nuggets,112,85,L,DEN @ HOU,2019-03-28
+0021801127,22018,Milwaukee Bucks,Los Angeles Clippers,128,118,L,LAC @ MIL,2019-03-28
+0021801128,22018,New Orleans Pelicans,Sacramento Kings,121,118,W,NOP vs. SAC,2019-03-28
+0021801129,22018,San Antonio Spurs,Cleveland Cavaliers,116,110,L,CLE @ SAS,2019-03-28
+0021801130,22018,Boston Celtics,Indiana Pacers,114,112,L,IND @ BOS,2019-03-29
+0021801131,22018,Atlanta Hawks,Portland Trail Blazers,98,118,W,POR @ ATL,2019-03-29
+0021801132,22018,Minnesota Timberwolves,Golden State Warriors,131,130,W,MIN vs. GSW,2019-03-29
+0021801133,22018,Oklahoma City Thunder,Denver Nuggets,105,115,W,DEN @ OKC,2019-03-29
+0021801134,22018,Utah Jazz,Washington Wizards,128,124,W,UTA vs. WAS,2019-03-29
+0021801135,22018,Los Angeles Lakers,Charlotte Hornets,129,115,W,LAL vs. CHA,2019-03-29
+0021801136,22018,Los Angeles Clippers,Cleveland Cavaliers,132,108,W,LAC vs. CLE,2019-03-30
+0021801137,22018,Brooklyn Nets,Boston Celtics,110,96,L,BOS @ BKN,2019-03-30
+0021801138,22018,Houston Rockets,Sacramento Kings,119,108,L,SAC @ HOU,2019-03-30
+0021801139,22018,Detroit Pistons,Portland Trail Blazers,99,90,L,POR @ DET,2019-03-30
+0021801140,22018,Indiana Pacers,Orlando Magic,116,121,W,ORL @ IND,2019-03-30
+0021801141,22018,New York Knicks,Miami Heat,92,100,L,NYK vs. MIA,2019-03-30
+0021801142,22018,Chicago Bulls,Toronto Raptors,101,124,L,CHI vs. TOR,2019-03-30
+0021801143,22018,Minnesota Timberwolves,Philadelphia 76ers,109,118,W,PHI @ MIN,2019-03-30
+0021801144,22018,Phoenix Suns,Memphis Grizzlies,115,120,L,PHX vs. MEM,2019-03-30
+0021801145,22018,Atlanta Hawks,Milwaukee Bucks,136,135,W,ATL vs. MIL,2019-03-31
+0021801146,22018,Oklahoma City Thunder,Dallas Mavericks,103,106,L,OKC vs. DAL,2019-03-31
+0021801147,22018,New Orleans Pelicans,Los Angeles Lakers,102,130,L,NOP vs. LAL,2019-03-31
+0021801148,22018,Denver Nuggets,Washington Wizards,90,95,L,DEN vs. WAS,2019-03-31
+0021801149,22018,San Antonio Spurs,Sacramento Kings,106,113,L,SAS vs. SAC,2019-03-31
+0021801150,22018,Golden State Warriors,Charlotte Hornets,137,90,L,CHA @ GSW,2019-03-31
+0021801151,22018,Los Angeles Clippers,Memphis Grizzlies,113,96,W,LAC vs. MEM,2019-03-31
+0021801152,22018,Indiana Pacers,Detroit Pistons,111,102,W,IND vs. DET,2019-04-01
+0021801153,22018,Boston Celtics,Miami Heat,110,105,W,BOS vs. MIA,2019-04-01
+0021801154,22018,Brooklyn Nets,Milwaukee Bucks,121,131,L,BKN vs. MIL,2019-04-01
+0021801155,22018,New York Knicks,Chicago Bulls,113,105,W,NYK vs. CHI,2019-04-01
+0021801156,22018,Toronto Raptors,Orlando Magic,121,109,W,TOR vs. ORL,2019-04-01
+0021801157,22018,Minnesota Timberwolves,Portland Trail Blazers,122,132,L,MIN vs. POR,2019-04-01
+0021801158,22018,Dallas Mavericks,Philadelphia 76ers,122,102,L,PHI @ DAL,2019-04-01
+0021801159,22018,Utah Jazz,Charlotte Hornets,111,102,L,CHA @ UTA,2019-04-01
+0021801160,22018,Phoenix Suns,Cleveland Cavaliers,122,113,W,PHX vs. CLE,2019-04-01
+0021801161,22018,Oklahoma City Thunder,Los Angeles Lakers,119,103,W,OKC vs. LAL,2019-04-02
+0021801162,22018,San Antonio Spurs,Atlanta Hawks,117,111,L,ATL @ SAS,2019-04-02
+0021801163,22018,Sacramento Kings,Houston Rockets,105,130,L,SAC vs. HOU,2019-04-02
+0021801164,22018,Golden State Warriors,Denver Nuggets,116,102,W,GSW vs. DEN,2019-04-02
+0021801165,22018,Detroit Pistons,Indiana Pacers,89,108,W,IND @ DET,2019-04-03
+0021801166,22018,Orlando Magic,New York Knicks,114,100,W,ORL vs. NYK,2019-04-03
+0021801167,22018,Washington Wizards,Chicago Bulls,114,115,L,WAS vs. CHI,2019-04-03
+0021801168,22018,Atlanta Hawks,Philadelphia 76ers,130,122,W,ATL vs. PHI,2019-04-03
+0021801169,22018,Brooklyn Nets,Toronto Raptors,105,115,L,BKN vs. TOR,2019-04-03
+0021801170,22018,Miami Heat,Boston Celtics,102,112,L,MIA vs. BOS,2019-04-03
+0021801171,22018,New Orleans Pelicans,Charlotte Hornets,109,115,W,CHA @ NOP,2019-04-03
+0021801172,22018,Dallas Mavericks,Minnesota Timberwolves,108,110,W,MIN @ DAL,2019-04-03
+0021801173,22018,Denver Nuggets,San Antonio Spurs,113,85,L,SAS @ DEN,2019-04-03
+0021801174,22018,Phoenix Suns,Utah Jazz,97,118,L,PHX vs. UTA,2019-04-03
+0021801175,22018,Portland Trail Blazers,Memphis Grizzlies,116,89,L,MEM @ POR,2019-04-03
+0021801176,22018,Los Angeles Clippers,Houston Rockets,103,135,L,LAC vs. HOU,2019-04-03
+0021801177,22018,Philadelphia 76ers,Milwaukee Bucks,122,128,L,PHI vs. MIL,2019-04-04
+0021801178,22018,Sacramento Kings,Cleveland Cavaliers,117,104,W,SAC vs. CLE,2019-04-04
+0021801179,22018,Los Angeles Lakers,Golden State Warriors,90,108,L,LAL vs. GSW,2019-04-04
+0021801180,22018,Charlotte Hornets,Toronto Raptors,113,111,W,CHA vs. TOR,2019-04-05
+0021801181,22018,Orlando Magic,Atlanta Hawks,149,113,L,ATL @ ORL,2019-04-05
+0021801182,22018,Washington Wizards,San Antonio Spurs,112,129,W,SAS @ WAS,2019-04-05
+0021801183,22018,Indiana Pacers,Boston Celtics,97,117,L,IND vs. BOS,2019-04-05
+0021801184,22018,Houston Rockets,New York Knicks,120,96,L,NYK @ HOU,2019-04-05
+0021801185,22018,Minnesota Timberwolves,Miami Heat,111,109,L,MIA @ MIN,2019-04-05
+0021801186,22018,Oklahoma City Thunder,Detroit Pistons,123,110,W,OKC vs. DET,2019-04-05
+0021801187,22018,Dallas Mavericks,Memphis Grizzlies,112,122,W,MEM @ DAL,2019-04-05
+0021801188,22018,Utah Jazz,Sacramento Kings,119,98,W,UTA vs. SAC,2019-04-05
+0021801189,22018,Phoenix Suns,New Orleans Pelicans,133,126,W,PHX vs. NOP,2019-04-05
+0021801190,22018,Denver Nuggets,Portland Trail Blazers,119,110,L,POR @ DEN,2019-04-05
+0021801191,22018,Golden State Warriors,Cleveland Cavaliers,120,114,W,GSW vs. CLE,2019-04-05
+0021801192,22018,Los Angeles Clippers,Los Angeles Lakers,117,122,W,LAL @ LAC,2019-04-05
+0021801193,22018,Milwaukee Bucks,Brooklyn Nets,128,133,W,BKN @ MIL,2019-04-06
+0021801194,22018,Chicago Bulls,Philadelphia 76ers,96,116,L,CHI vs. PHI,2019-04-06
+0021801195,22018,Toronto Raptors,Miami Heat,117,109,W,TOR vs. MIA,2019-04-07
+0021801196,22018,Cleveland Cavaliers,San Antonio Spurs,90,112,W,SAS @ CLE,2019-04-07
+0021801197,22018,Minnesota Timberwolves,Oklahoma City Thunder,126,132,W,OKC @ MIN,2019-04-07
+0021801198,22018,Detroit Pistons,Charlotte Hornets,91,104,W,CHA @ DET,2019-04-07
+0021801199,22018,Indiana Pacers,Brooklyn Nets,96,108,W,BKN @ IND,2019-04-07
+0021801200,22018,Houston Rockets,Phoenix Suns,149,113,W,HOU vs. PHX,2019-04-07
+0021801201,22018,Memphis Grizzlies,Dallas Mavericks,127,129,W,DAL @ MEM,2019-04-07
+0021801202,22018,Milwaukee Bucks,Atlanta Hawks,115,107,L,ATL @ MIL,2019-04-07
+0021801203,22018,Boston Celtics,Orlando Magic,108,116,L,BOS vs. ORL,2019-04-07
+0021801204,22018,New York Knicks,Washington Wizards,113,110,L,WAS @ NYK,2019-04-07
+0021801205,22018,Golden State Warriors,Los Angeles Clippers,131,104,L,LAC @ GSW,2019-04-07
+0021801206,22018,Portland Trail Blazers,Denver Nuggets,115,108,L,DEN @ POR,2019-04-07
+0021801207,22018,Sacramento Kings,New Orleans Pelicans,129,133,L,SAC vs. NOP,2019-04-07
+0021801208,22018,Los Angeles Lakers,Utah Jazz,113,109,L,UTA @ LAL,2019-04-07
+0021801209,22018,Cleveland Cavaliers,Charlotte Hornets,97,124,L,CLE vs. CHA,2019-04-09
+0021801210,22018,Detroit Pistons,Memphis Grizzlies,100,93,W,DET vs. MEM,2019-04-09
+0021801211,22018,Washington Wizards,Boston Celtics,110,116,L,WAS vs. BOS,2019-04-09
+0021801212,22018,Miami Heat,Philadelphia 76ers,122,99,W,MIA vs. PHI,2019-04-09
+0021801213,22018,Chicago Bulls,New York Knicks,86,96,L,CHI vs. NYK,2019-04-09
+0021801214,22018,Minnesota Timberwolves,Toronto Raptors,100,120,L,MIN vs. TOR,2019-04-09
+0021801215,22018,New Orleans Pelicans,Golden State Warriors,103,112,L,NOP vs. GSW,2019-04-09
+0021801216,22018,Dallas Mavericks,Phoenix Suns,120,109,L,PHX @ DAL,2019-04-09
+0021801217,22018,Utah Jazz,Denver Nuggets,118,108,L,DEN @ UTA,2019-04-09
+0021801218,22018,Oklahoma City Thunder,Houston Rockets,112,111,W,OKC vs. HOU,2019-04-09
+0021801219,22018,Los Angeles Lakers,Portland Trail Blazers,101,104,W,POR @ LAL,2019-04-09
+0021801220,22018,Atlanta Hawks,Indiana Pacers,134,135,L,ATL vs. IND,2019-04-10
+0021801221,22018,Brooklyn Nets,Miami Heat,113,94,L,MIA @ BKN,2019-04-10
+0021801222,22018,Charlotte Hornets,Orlando Magic,114,122,L,CHA vs. ORL,2019-04-10
+0021801223,22018,New York Knicks,Detroit Pistons,89,115,L,NYK vs. DET,2019-04-10
+0021801224,22018,Philadelphia 76ers,Chicago Bulls,125,109,L,CHI @ PHI,2019-04-10
+0021801225,22018,Memphis Grizzlies,Golden State Warriors,132,117,W,MEM vs. GSW,2019-04-10
+0021801226,22018,Milwaukee Bucks,Oklahoma City Thunder,116,127,W,OKC @ MIL,2019-04-10
+0021801227,22018,San Antonio Spurs,Dallas Mavericks,105,94,W,SAS vs. DAL,2019-04-10
+0021801228,22018,Denver Nuggets,Minnesota Timberwolves,99,95,L,MIN @ DEN,2019-04-10
+0021801229,22018,Los Angeles Clippers,Utah Jazz,143,137,W,LAC vs. UTA,2019-04-10
+0021801230,22018,Portland Trail Blazers,Sacramento Kings,136,131,L,SAC @ POR,2019-04-10
