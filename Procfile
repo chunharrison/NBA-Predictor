@@ -1,0 +1,1 @@
+web: gunicorn nbapredictorhc.wsgi --log-file -
