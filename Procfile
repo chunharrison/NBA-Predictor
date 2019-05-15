@@ -1,1 +1,1 @@
-web: gunicorn setup:app --log-file -
+web: gunicorn src.setup:app --log-file -
