@@ -2,7 +2,7 @@ from flask import Flask
 
 app = Flask(__name__,
     static_folder = './public',
-    template_folder="./static")
+    template_folder = './static')
 
 from templates.home.views import home_blueprint
 from templates.predictions.views import predictions_blueprint

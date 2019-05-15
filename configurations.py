@@ -15,3 +15,4 @@ class DevelopmentConfig(BaseCongig):
     """
     DEBUG = True
     TESTING = True
+    
