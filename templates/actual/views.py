@@ -59,8 +59,7 @@ def actual():
             prediction_data_combined.append(combining_dict)
             combining_dict = {}
         else:
-            new_dict = {**combining_dict, **dic} 
-            print(new_dict)
+            new_dict = {**combining_dict, **dic}
             combining_dict = new_dict
         date_tracker = current_date
     

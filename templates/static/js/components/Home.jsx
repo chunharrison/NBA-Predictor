@@ -23,16 +23,18 @@ export default class Home extends Component {
             predictions_posts: [],
             actual_posts:[],
             options: {
-                title: 'NBA 2018-19 SEASON PREDICTIONS',
                 hAxis: {
-                    title: 'Win / Loss ratio (%)'
+                    title: 'Game Days'
                 },
                 vAxis: {
-                    title: 'Days'
+                    title: 'Win / Loss Ratio (%)'
                 },
+                width: "100%",
+                height: "100%",
+                chartArea: {width: '90%', height: '80%'},
                 legend: { 
-                    position: 'bottom',
-                    maxlines: 10
+                    position: 'top',
+                    maxlines: 5
                 }
             },
             predictions_is_loaded: false,
@@ -101,9 +103,7 @@ export default class Home extends Component {
         if ( this.state.predictions_is_loaded ) {
             predictions_graph = (
                 <Chart
-                    width={'100%'}
-                    height={'100%'}
-                    chartType="Line"
+                    chartType="LineChart"
                     loader={<div>Loading Chart</div>}
                     data={this.state.predictions_posts}
                     options={this.state.options}
@@ -115,9 +115,7 @@ export default class Home extends Component {
         if ( this.state.actual_is_loaded ) {
             actual_graph = (
                 <Chart
-                    width={'100%'}
-                    height={'100%'}
-                    chartType="Line"
+                    chartType="LineChart"
                     loader={<div>Loading Chart</div>}
                     data={this.state.actual_posts}
                     options={this.state.options}
@@ -134,7 +132,7 @@ export default class Home extends Component {
                     <p>
                         <a href="https://www.linkedin.com/in/harrison-chun-b83939163/" target="_blank" class="text-primary">Developer </a>
                         |
-                        <a href="https://github.com/harrisonwjs/NBA-Predictor" target="_blank" class="text-primary"> Github</a>
+                        <a href="https://github.com/harrisonwjs/NBA-Predictor" target="_blank" class="text-primary"> GitHub</a>
                     </p>
                 </div>
                 <div class="container description">
