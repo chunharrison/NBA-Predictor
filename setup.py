@@ -3,4 +3,5 @@ from templates import app
 # app.config.from_object('configurations.DevelopmentConfig')
 #Load this config object for production mode
 # app.config.from_object('configurations.ProductionConfig')
-app.run()
+if __name__ == '__main__': 
+    app.run()
